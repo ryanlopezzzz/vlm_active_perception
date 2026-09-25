@@ -1,0 +1,52 @@
+experiment_type: mi_real_preflight
+experiment_name: mi_real_preflight
+output_root: runs
+max_parallel_jobs: 1
+
+camera:
+  device_index: 0
+  frame_width: 2000
+  frame_height: 1500
+  average_frames: 3
+  warmup_frames: 2
+  llm_image_format: png
+
+hardware:
+  baseline_state_path: session\mi_real\baseline_state.json
+  session_state_path: session\mi_real\session_state.json
+  steps_per_revolution: 4096
+  max_cumulative_revolutions: 5.0
+  backlash_compensation: true
+  settle_time_sec: 1.0
+  dry_run: false
+  use_baseline_reference: true
+
+axes:
+  - name: mirror_1_axis_1
+    controller_ip: REPLACE_ME
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_max_steps: 250
+    llm_step_limit: 100
+    preflight_test_steps: 2048
+  - name: mirror_1_axis_2
+    controller_ip: REPLACE_ME
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_max_steps: 250
+    llm_step_limit: 100
+    preflight_test_steps: 2048
+  - name: mirror_2_axis_1
+    controller_ip: REPLACE_ME
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_max_steps: 250
+    llm_step_limit: 100
+    preflight_test_steps: 2048
+  - name: mirror_2_axis_2
+    controller_ip: REPLACE_ME
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_max_steps: 250
+    llm_step_limit: 100
+    preflight_test_steps: 2048

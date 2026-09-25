@@ -1,0 +1,28 @@
+experiment_type: two_mirror_cavity_hardware_smoke
+experiment_name: two_mirror_cavity_hardware_smoke
+output_root: runs
+
+camera:
+  camera_index: 0
+  exposure_ms: 100.0
+  analog_gain: 1
+  average_frames: 1
+  warmup_frames: 2
+  frame_timeout_ms: 1000
+  frame_retries: 3
+  llm_image_format: png
+
+hardware:
+  session_state_path: session\two_mirror_cavity\smoke_session_state.json
+  steps_per_revolution: 4096
+  max_cumulative_revolutions: 5.0
+  backlash_compensation: true
+  settle_time_sec: 0.5
+  dry_run: false
+
+axis:
+  name: cavity_mirror_axis
+  controller_ip: REPLACE_ME
+  motor_number: 3
+  direction_sign: 1
+  logical_steps: -2000

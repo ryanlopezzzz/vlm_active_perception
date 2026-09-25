@@ -1,0 +1,105 @@
+{
+  "seed": 123,
+  "scrambles": [
+    {
+      "mirror_1_in_plane_steps": -13285,
+      "mirror_1_out_of_plane_steps": -6229,
+      "mirror_2_in_plane_steps": -12144,
+      "mirror_2_out_of_plane_steps": 10197,
+      "mirror_3_in_plane_steps": -1656,
+      "mirror_3_out_of_plane_steps": -6266,
+      "mirror_4_in_plane_steps": -11471,
+      "mirror_4_out_of_plane_steps": 12476
+    },
+    {
+      "mirror_1_in_plane_steps": 14530,
+      "mirror_1_out_of_plane_steps": 13666,
+      "mirror_2_in_plane_steps": -13750,
+      "mirror_2_out_of_plane_steps": -2577,
+      "mirror_3_in_plane_steps": 2570,
+      "mirror_3_out_of_plane_steps": 3426,
+      "mirror_4_in_plane_steps": -4115,
+      "mirror_4_out_of_plane_steps": -3833
+    },
+    {
+      "mirror_1_in_plane_steps": 12921,
+      "mirror_1_out_of_plane_steps": -13300,
+      "mirror_2_in_plane_steps": -9769,
+      "mirror_2_out_of_plane_steps": -10575,
+      "mirror_3_in_plane_steps": -3951,
+      "mirror_3_out_of_plane_steps": 3381,
+      "mirror_4_in_plane_steps": -4063,
+      "mirror_4_out_of_plane_steps": 7992
+    },
+    {
+      "mirror_1_in_plane_steps": -6967,
+      "mirror_1_out_of_plane_steps": -9634,
+      "mirror_2_in_plane_steps": -14946,
+      "mirror_2_out_of_plane_steps": 14684,
+      "mirror_3_in_plane_steps": -705,
+      "mirror_3_out_of_plane_steps": 10348,
+      "mirror_4_in_plane_steps": -12130,
+      "mirror_4_out_of_plane_steps": 13790
+    },
+    {
+      "mirror_1_in_plane_steps": 4582,
+      "mirror_1_out_of_plane_steps": -2627,
+      "mirror_2_in_plane_steps": -12711,
+      "mirror_2_out_of_plane_steps": -14784,
+      "mirror_3_in_plane_steps": -4664,
+      "mirror_3_out_of_plane_steps": 8987,
+      "mirror_4_in_plane_steps": -310,
+      "mirror_4_out_of_plane_steps": -11657
+    },
+    {
+      "mirror_1_in_plane_steps": 14668,
+      "mirror_1_out_of_plane_steps": -13562,
+      "mirror_2_in_plane_steps": -11961,
+      "mirror_2_out_of_plane_steps": 6860,
+      "mirror_3_in_plane_steps": -10342,
+      "mirror_3_out_of_plane_steps": -10864,
+      "mirror_4_in_plane_steps": 10889,
+      "mirror_4_out_of_plane_steps": 14707
+    },
+    {
+      "mirror_1_in_plane_steps": -14305,
+      "mirror_1_out_of_plane_steps": -5439,
+      "mirror_2_in_plane_steps": 14856,
+      "mirror_2_out_of_plane_steps": -889,
+      "mirror_3_in_plane_steps": 3789,
+      "mirror_3_out_of_plane_steps": 627,
+      "mirror_4_in_plane_steps": -6306,
+      "mirror_4_out_of_plane_steps": 377
+    },
+    {
+      "mirror_1_in_plane_steps": 12454,
+      "mirror_1_out_of_plane_steps": -13796,
+      "mirror_2_in_plane_steps": 10191,
+      "mirror_2_out_of_plane_steps": -5003,
+      "mirror_3_in_plane_steps": -3746,
+      "mirror_3_out_of_plane_steps": 2094,
+      "mirror_4_in_plane_steps": 11263,
+      "mirror_4_out_of_plane_steps": 825
+    },
+    {
+      "mirror_1_in_plane_steps": -8222,
+      "mirror_1_out_of_plane_steps": 11911,
+      "mirror_2_in_plane_steps": 4952,
+      "mirror_2_out_of_plane_steps": 5930,
+      "mirror_3_in_plane_steps": 2271,
+      "mirror_3_out_of_plane_steps": 3507,
+      "mirror_4_in_plane_steps": 11520,
+      "mirror_4_out_of_plane_steps": -4670
+    },
+    {
+      "mirror_1_in_plane_steps": -14589,
+      "mirror_1_out_of_plane_steps": -1951,
+      "mirror_2_in_plane_steps": 14259,
+      "mirror_2_out_of_plane_steps": 10207,
+      "mirror_3_in_plane_steps": 6173,
+      "mirror_3_out_of_plane_steps": 1801,
+      "mirror_4_in_plane_steps": -767,
+      "mirror_4_out_of_plane_steps": 7440
+    }
+  ]
+}

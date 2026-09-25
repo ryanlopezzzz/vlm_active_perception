@@ -1,0 +1,58 @@
+Align a real four-mirror optical relay using one movable beam camera and eight
+motor axes. The input beam meets M1, M2, M3, M4 in sequence. The mirrors form
+approximately an 8 by 11 inch rectangle on the table. Each mirror is a 1-inch
+circular mirror; the nominal beam turns roughly 90 degrees at each reflection.
+Tilts change the outgoing beam direction; downstream light depends on the beam
+reaching the preceding mirrors. The input source and mirror bases are fixed.
+
+Available camera stations are calibrated poses along the intended beam path:
+C1: after M1, near M1. C2: on that same segment, just before M2.
+C3: after M2, near M2. C4: on that same segment, just before M3.
+C5: after M3, near M3. C6: on that same segment, just before M4.
+C7: after M4, near M4. C8: farther along the output segment after M4.
+The camera observes one plane at a time and intercepts the beam there. Camera
+moves take time and can introduce small position/orientation errors. Nominal
+station centers represent the desired path, with finite placement accuracy.
+
+Goal: establish the beam through all four mirrors, align each segment as well
+as practical, and obtain a reasonably centered localized beam at final C8.
+Perfect pixel centering is unnecessary. Choose your own measurement locations,
+mirror adjustments, order, and revisits. Infer what measurements constrain and
+which observation would best resolve uncertainty. Explain your observation,
+hypothesis, and reason for the selected action; retain useful findings in your
+reason text. You have a finite turn budget. No prescribed station order or
+near/far priority is imposed.
+
+You receive one current image per turn. Return exactly ONE JSON action:
+{"action":"tilt","mirror":"M1","vertical":0,"horizontal":0,"reason":"evidence and plan"}
+OR {"action":"measure","station":"C3","reason":"why measure here"}
+OR {"action":"done","reason":"evidence of alignment including current C8 image"}.
+A tilt changes only the named mirror, keeping the camera stationary. A measure
+moves only the camera (or takes another image if already there); no motors change.
+You may select any M1-M4 or C1-C8. Each action is followed by a new image before
+another decision. done is accepted only while observing C8 and applies no moves.
+Do not declare done on a blank or speckle-only image.
+
+Tilt values are integer RELATIVE movements in motor steps, each within
+[-15000,15000]. Zero means no movement on that axis. A value of +2000 requests
+another +2000 steps, even if your previous action also requested +2000.
+Use zero for the partner axis when changing only one axis. Cumulative commanded
+steps since LLM control began (after scrambling) must stay within [-30000,30000]
+per axis. These totals track commands, not measured physical positions; stalled
+moves still count. Out-of-bounds actions execute no movement: you receive the
+rejection reason and allowed delta range, then may submit a corrected action.
+About 2000 steps is a useful
+initial probe scale, not a required step size. The nominal calibration is 4096
+steps per motor revolution and 0.027 radians mirror tilt per revolution.
+Horizontal and vertical label the corresponding hardware tilt axes, not image
+signs: learn which sign moves the spot which way at each station from observations.
+No left/right/up/down sign mapping is guaranteed. Motor response may be coupled,
+backlash may occur, and some combinations of tilts can bind mechanically.
+A command is not proof of motion. If one axis gives little response, a change
+on the other axis can sometimes free it. Diagnose using observed responses.
+
+Clipping or missing the sensor can produce many speckles; a speckle cloud alone
+is not a centered beam. Images may also contain background, saturation and
+brightness variation. Seek evidence of a localized beam and distinguish missing
+signal from a centered spot. Images are full unmodified captures, x-right/y-down.
+Camera defaults are used. Brightness alone does not establish alignment.

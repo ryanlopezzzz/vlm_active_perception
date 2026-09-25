@@ -1,0 +1,27 @@
+experiment_type: motorized_mirror_relay_matched
+experiment_name: motorized_mirror_relay_matched_lab
+output_root: runs
+lab_inputs: configs/motorized_mirror_relay/simulation_inputs
+models:
+  gpt_5_6_sol: openai/gpt-5.6-sol
+  gemini_3_5_flash: google/gemini-3.5-flash
+trial_ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+base_seed: 123
+methods: [llm, random]
+random_seed: 456
+bayes_seed: 789
+max_parallel_jobs: 2
+simulation:
+  width_mm: 279.4
+  height_mm: 203.2
+  input_distance_mm: 120.0
+  mirror_diameter_mm: 25.4
+  camera_width_mm: 6.4
+  camera_height_mm: 4.8
+  frame_width_px: 640
+  frame_height_px: 480
+  beam_radius_mm: 0.8
+  steps_per_revolution: 4096
+  mirror_radians_per_revolution: 0.027
+  hidden_offset_max_steps: 15000
+  command_limit_steps: 30000

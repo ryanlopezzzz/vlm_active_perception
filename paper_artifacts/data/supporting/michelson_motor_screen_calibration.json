@@ -1,0 +1,77 @@
+{
+  "model": "Combined mirrors, independent axes with no cross-coupling",
+  "origin_definition": "Motor x=0 and y=0 are the hand-aligned positions at sweep startup.",
+  "sample_count": 90,
+  "samples_per_mirror": {
+    "mirror_1": 45,
+    "mirror_2": 45
+  },
+  "motor_mapping": {
+    "x": "motor 1",
+    "y": "motor 3"
+  },
+  "motor_step_order": [
+    "motor_1_x_steps",
+    "motor_3_y_steps"
+  ],
+  "screen_coordinate_order": [
+    "normalized_x",
+    "normalized_y"
+  ],
+  "matrix": [
+    [
+      -0.00024930000000000004,
+      0.0
+    ],
+    [
+      0.0,
+      0.0004456666666666666
+    ]
+  ],
+  "offset": [
+    0.04777777777777781,
+    0.006111111111111129
+  ],
+  "equations": {
+    "normalized_x": "-0.0002493 * motor_1_x_steps + 0.0477777777778",
+    "normalized_y": "0.000445666666667 * motor_3_y_steps + 0.00611111111111"
+  },
+  "inverse_equations": {
+    "motor_1_x_steps": "(normalized_x - 0.0477777777778) / -0.0002493",
+    "motor_3_y_steps": "(normalized_y - 0.00611111111111) / 0.000445666666667"
+  },
+  "overall_metrics": {
+    "normalized_x": {
+      "rmse": 0.026428426521362593,
+      "r_squared": 0.9983171018721012
+    },
+    "normalized_y": {
+      "rmse": 0.049973202695587964,
+      "r_squared": 0.9937525566714358
+    }
+  },
+  "per_mirror_metrics": {
+    "mirror_1": {
+      "sample_count": 45,
+      "normalized_x": {
+        "rmse": 0.016999854756097114,
+        "r_squared": 0.9992820219569037
+      },
+      "normalized_y": {
+        "rmse": 0.040963548987838015,
+        "r_squared": 0.9954886212312517
+      }
+    },
+    "mirror_2": {
+      "sample_count": 45,
+      "normalized_x": {
+        "rmse": 0.03328555835586547,
+        "r_squared": 0.997408268109391
+      },
+      "normalized_y": {
+        "rmse": 0.05759018692129446,
+        "r_squared": 0.992226775260586
+      }
+    }
+  }
+}

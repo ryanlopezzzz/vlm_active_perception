@@ -1,0 +1,65 @@
+experiment_type: mi_real_llm_runs
+experiment_name: mi_real_llm_runs
+output_root: runs
+
+repeats: 10
+iterations: 60
+base_seed: 20260422
+max_parallel_jobs: 1
+methods:
+  - llm
+initial_condition_mode: one_beam_onscreen
+
+camera:
+  device_index: 0
+  frame_width: 2000
+  frame_height: 1500
+  average_frames: 3
+  warmup_frames: 2
+  llm_image_format: png
+
+hardware:
+  baseline_state_path: session\mi_real\baseline_state.json
+  session_state_path: session\mi_real\session_state.json
+  steps_per_revolution: 4096
+  max_cumulative_revolutions: 5.0
+  backlash_compensation: true
+  settle_time_sec: 1.0
+  dry_run: false
+  use_baseline_reference: true
+
+axes:
+  - name: mirror_1_axis_1
+    controller_ip: REPLACE_ME
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_max_steps: 8192
+    llm_step_limit: 8192
+    preflight_test_steps: 600
+  - name: mirror_1_axis_2
+    controller_ip: REPLACE_ME
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_max_steps: 8192
+    llm_step_limit: 8192
+    preflight_test_steps: 600
+  - name: mirror_2_axis_1
+    controller_ip: REPLACE_ME
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_max_steps: 8192
+    llm_step_limit: 8192
+    preflight_test_steps: 600
+  - name: mirror_2_axis_2
+    controller_ip: REPLACE_ME
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_max_steps: 8192
+    llm_step_limit: 8192
+    preflight_test_steps: 600
+
+llm:
+  model: openai/gpt-5.6-sol
+  effort: high
+  max_tokens: 20000
+  reasoning_max_tokens: null

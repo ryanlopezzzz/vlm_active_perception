@@ -1,0 +1,57 @@
+experiment_type: michelson_interferometer_compare_methods
+experiment_name: michelson_interferometer_compare_methods
+output_root: runs
+
+repeats: 10
+iterations: 60
+base_seed: 20260422
+max_parallel_jobs: 5
+methods: [llm, bayes, random]
+initial_conditions_path: lab_initial_conditions.json
+
+simulation:
+  frame_width_px: 960
+  frame_height_px: 540
+  steps_per_revolution: 4096
+  max_rotations_from_center: 2.0
+  beam_diameter_fraction_of_width: 0.25
+  fringe_count_across_beam_diameter: 8.0
+  first_beam_amplitude: 1.0
+  second_beam_amplitude: 1.0
+  normalize_each_frame: false
+  initial_condition_mode: random
+
+axes:
+  - name: mirror_1_axis_1
+    direction_sign: 1
+    hidden_offset_max_steps: 6144
+    visible_step_limit: 8192
+  - name: mirror_1_axis_2
+    direction_sign: 1
+    hidden_offset_max_steps: 4096
+    visible_step_limit: 6144
+  - name: mirror_2_axis_1
+    direction_sign: 1
+    hidden_offset_max_steps: 6144
+    visible_step_limit: 8192
+  - name: mirror_2_axis_2
+    direction_sign: 1
+    hidden_offset_max_steps: 4096
+    visible_step_limit: 6144
+
+llm_models:
+  - key: gpt_5_6_sol
+    model: openai/gpt-5.6-sol
+    effort: high
+    max_tokens: 20000
+    reasoning_max_tokens: null
+  - key: gemini_3_5_flash
+    model: google/gemini-3.5-flash
+    effort: medium
+    max_tokens: 20000
+    reasoning_max_tokens: null
+  - key: claude_sonnet_5
+    model: anthropic/claude-sonnet-5
+    effort: high
+    max_tokens: 20000
+    reasoning_max_tokens: null

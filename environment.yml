@@ -1,0 +1,20 @@
+name: llm-optics-alignment
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - opencv
+  - pillow
+  - requests
+  - pyyaml
+  - scikit-learn
+  - bayesian-optimization
+  - imageio
+  - imageio-ffmpeg
+  - pip

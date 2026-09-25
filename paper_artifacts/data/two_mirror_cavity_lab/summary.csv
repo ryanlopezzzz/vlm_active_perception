@@ -1,0 +1,4 @@
+model,model_label,model_id,repeat_count,success_count,success_percentage,final_distance_steps_mean,final_distance_steps_std,cost_dollars_mean,cost_dollars_std,time_to_final_seconds_mean,time_to_final_seconds_std,motor_configurations_seen_mean,motor_configurations_seen_std,llm_responses_mean,llm_responses_std
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,10,9,90.0,265.8069709024559,246.95243406071575,0.648054775,0.1784901243231934,321.5083194,81.95963032921453,14.1,2.6436506745197805,14.1,2.6436506745197805
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,10,6,60.0,1648.7756984874188,3520.312832701934,0.27392319,0.08013510835779782,181.61649219999998,45.920670942429346,11.1,2.0248456731316584,11.1,2.0248456731316584
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,10,0,0.0,3345.413879935861,2787.2131585216257,0.02499718,0.0451973005171078,277.1270972,227.97637519037494,14.6,12.894443247642243,14.6,12.894443247642243

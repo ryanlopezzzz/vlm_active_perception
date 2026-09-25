@@ -1,0 +1,20 @@
+model,trial,M1,M2,M3,completion
+GPT-5.6 Sol,1,11,26,35,46
+GPT-5.6 Sol,3,13,25,37,47
+GPT-5.6 Sol,4,12,40,54,67
+GPT-5.6 Sol,5,6,20,33,42
+GPT-5.6 Sol,6,15,37,50,67
+GPT-5.6 Sol,7,23,39,47,55
+GPT-5.6 Sol,8,12,26,38,49
+GPT-5.6 Sol,9,17,49,59,71
+GPT-5.6 Sol,10,7,22,31,39
+Gemini 3.5 Flash,1,8,23,33,45
+Gemini 3.5 Flash,2,13,28,39,47
+Gemini 3.5 Flash,3,19,29,37,44
+Gemini 3.5 Flash,4,10,22,30,44
+Gemini 3.5 Flash,5,7,19,30,39
+Gemini 3.5 Flash,6,15,31,39,51
+Gemini 3.5 Flash,7,10,19,26,36
+Gemini 3.5 Flash,8,13,23,30,48
+Gemini 3.5 Flash,9,12,25,36,48
+Gemini 3.5 Flash,10,11,26,32,42

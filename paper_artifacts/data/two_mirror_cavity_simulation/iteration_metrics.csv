@@ -1,0 +1,2551 @@
+method_key,method_label,method_kind,repeat_index,iteration,carried_forward,motor_step_error
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,0,False,2186.2005854907275
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,1,False,1751.6486519847524
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,2,False,2058.415167064215
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,3,False,765.5540477327515
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,4,False,1258.59961862381
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,5,False,2253.901728115048
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,6,False,1759.5661397060355
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,7,False,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,8,False,1764.469608692652
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,9,False,1438.802627186926
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,10,False,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,11,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,12,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,13,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,14,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,15,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,16,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,17,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,18,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,19,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,20,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,21,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,22,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,23,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,24,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,25,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,26,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,27,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,28,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,29,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,30,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,31,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,32,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,33,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,34,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,35,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,36,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,37,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,38,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,39,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,40,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,41,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,42,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,43,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,44,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,45,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,46,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,47,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,48,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,49,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,0,50,True,178.1937148162078
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,0,False,3375.000148148145
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,1,False,4865.760577751437
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,2,False,1417.9654438666691
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,3,False,2201.278265008765
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,4,False,2397.6292457342106
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,5,False,137.20787149431334
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,6,False,1498.2743406999934
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,7,False,1308.7497851002688
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,8,False,902.677129432224
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,9,False,1100.3753904918085
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,10,False,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,11,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,12,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,13,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,14,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,15,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,16,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,17,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,18,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,19,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,20,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,21,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,22,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,23,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,24,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,25,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,26,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,27,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,28,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,29,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,30,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,31,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,32,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,33,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,34,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,35,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,36,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,37,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,38,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,39,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,40,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,41,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,42,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,43,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,44,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,45,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,46,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,47,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,48,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,49,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,1,50,True,122.09013064126027
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,0,False,1979.1071219112926
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,1,False,876.3931766051126
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,2,False,706.5868665634821
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,3,False,3548.9808396214257
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,4,False,2539.9340542620394
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,5,False,2152.6414006982213
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,6,False,1570.2754535431036
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,7,False,2044.3495298015944
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,8,False,1279.7050441410317
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,9,False,963.9735473549053
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,10,False,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,11,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,12,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,13,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,14,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,15,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,16,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,17,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,18,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,19,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,20,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,21,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,22,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,23,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,24,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,25,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,26,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,27,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,28,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,29,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,30,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,31,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,32,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,33,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,34,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,35,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,36,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,37,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,38,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,39,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,40,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,41,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,42,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,43,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,44,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,45,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,46,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,47,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,48,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,49,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,2,50,True,271.0073799733136
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,0,False,2313.4757400932476
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,1,False,3803.0474622334127
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,2,False,1748.190493052745
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,3,False,2520.549543254407
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,4,False,1832.531036572096
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,5,False,98.84331034521254
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,6,False,1759.2526822489144
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,7,False,1845.1476905657173
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,8,False,992.9073471376873
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,9,False,815.7603814846613
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,10,False,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,11,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,12,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,13,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,14,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,15,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,16,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,17,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,18,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,19,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,20,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,21,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,22,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,23,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,24,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,25,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,26,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,27,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,28,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,29,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,30,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,31,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,32,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,33,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,34,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,35,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,36,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,37,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,38,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,39,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,40,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,41,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,42,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,43,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,44,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,45,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,46,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,47,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,48,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,49,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,3,50,True,101.04454463255303
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,0,False,3626.1683634381898
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,1,False,2234.3001141297023
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,2,False,1859.8647800310646
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,3,False,3226.468192931708
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,4,False,2183.59726140147
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,5,False,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,6,False,1290.1306135426753
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,7,False,1112.3115570738264
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,8,False,858.6250636919469
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,9,False,751.2902235487961
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,10,False,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,11,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,12,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,13,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,14,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,15,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,16,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,17,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,18,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,19,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,20,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,21,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,22,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,23,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,24,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,25,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,26,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,27,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,28,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,29,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,30,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,31,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,32,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,33,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,34,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,35,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,36,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,37,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,38,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,39,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,40,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,41,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,42,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,43,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,44,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,45,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,46,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,47,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,48,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,49,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,4,50,True,104.10091258005379
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,0,False,2132.6312386345653
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,1,False,1986.986663266767
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,2,False,2578.394073837434
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,3,False,1910.0041884770828
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,4,False,797.5688058092543
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,5,False,1296.9641475383967
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,6,False,407.0823012610595
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,7,False,1704.7334102433729
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,8,False,90.97252332435328
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,9,False,1551.8621072762876
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,10,False,1451.9903580947087
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,11,False,1102.6223288143588
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,12,False,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,13,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,14,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,15,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,16,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,17,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,18,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,19,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,20,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,21,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,22,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,23,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,24,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,25,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,26,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,27,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,28,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,29,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,30,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,31,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,32,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,33,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,34,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,35,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,36,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,37,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,38,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,39,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,40,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,41,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,42,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,43,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,44,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,45,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,46,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,47,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,48,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,49,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,5,50,True,96.82974749528164
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,0,False,3185.50780881165
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,1,False,1929.6269069434122
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,2,False,2038.4945425484955
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,3,False,2836.7446131084835
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,4,False,1676.0429588766513
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,5,False,848.0094339097885
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,6,False,922.6917144962341
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,7,False,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,8,False,1036.1563588570984
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,9,False,1364.1187631581056
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,10,False,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,11,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,12,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,13,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,14,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,15,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,16,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,17,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,18,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,19,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,20,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,21,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,22,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,23,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,24,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,25,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,26,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,27,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,28,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,29,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,30,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,31,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,32,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,33,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,34,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,35,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,36,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,37,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,38,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,39,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,40,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,41,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,42,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,43,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,44,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,45,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,46,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,47,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,48,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,49,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,6,50,True,164.98484778912274
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,0,False,1843.9023835333583
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,1,False,2548.7204632913354
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,2,False,4605.211830089904
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,3,False,4303.484169832625
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,4,False,2849.5571585774514
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,5,False,2893.4367109027976
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,6,False,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,7,False,1275.921627687218
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,8,False,1727.418883768497
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,9,False,957.0663508869173
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,10,False,1093.6068763499982
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,11,False,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,12,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,13,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,14,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,15,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,16,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,17,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,18,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,19,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,20,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,21,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,22,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,23,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,24,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,25,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,26,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,27,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,28,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,29,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,30,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,31,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,32,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,33,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,34,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,35,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,36,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,37,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,38,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,39,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,40,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,41,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,42,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,43,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,44,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,45,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,46,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,47,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,48,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,49,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,7,50,True,236.5924766344019
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,0,False,2943.0304109879667
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,1,False,1448.2499784222337
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,2,False,1075.8382778094485
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,3,False,3066.8270247928886
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,4,False,2205.3181176419876
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,5,False,1659.3456541661235
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,6,False,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,7,False,1138.0017574678873
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,8,False,1262.0015847850589
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,9,False,601.2054557304017
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,10,False,774.4856357609223
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,11,False,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,12,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,13,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,14,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,15,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,16,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,17,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,18,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,19,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,20,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,21,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,22,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,23,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,24,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,25,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,26,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,27,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,28,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,29,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,30,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,31,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,32,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,33,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,34,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,35,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,36,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,37,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,38,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,39,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,40,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,41,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,42,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,43,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,44,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,45,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,46,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,47,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,48,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,49,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,8,50,True,62.03224967708329
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,0,False,4095.0877890467746
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,1,False,3223.9330017852417
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,2,False,2211.276554391151
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,3,False,2780.025899159934
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,4,False,720.0999930565199
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,5,False,1720.0418599557395
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,6,False,1593.3122732220447
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,7,False,1617.2334401687347
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,8,False,1480.048647849117
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,9,False,1220.0590149660795
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,10,False,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,11,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,12,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,13,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,14,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,15,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,16,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,17,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,18,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,19,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,20,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,21,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,22,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,23,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,24,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,25,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,26,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,27,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,28,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,29,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,30,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,31,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,32,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,33,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,34,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,35,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,36,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,37,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,38,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,39,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,40,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,41,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,42,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,43,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,44,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,45,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,46,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,47,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,48,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,49,True,130.5526713629407
+gpt_5_6_sol,GPT-5.6 SOL,llm,9,50,True,130.5526713629407
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,0,False,2186.2005854907275
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,1,False,2429.2947536270685
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,2,False,4653.7590182561025
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,3,False,1318.359966018386
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,4,False,2778.861817363361
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,5,False,1097.5759654802941
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,6,False,1919.0291816436768
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,7,False,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,8,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,9,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,10,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,11,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,12,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,13,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,14,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,15,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,16,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,17,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,18,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,19,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,20,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,21,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,22,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,23,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,24,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,25,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,26,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,27,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,28,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,29,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,30,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,31,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,32,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,33,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,34,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,35,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,36,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,37,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,38,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,39,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,40,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,41,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,42,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,43,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,44,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,45,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,46,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,47,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,48,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,49,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,0,50,True,421.3703833920937
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,0,False,3375.000148148145
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,1,False,6360.866764836377
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,2,False,566.2384656661891
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,3,False,2387.5983749366223
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,4,False,4368.137589408099
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,5,False,4613.526416961325
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,6,False,4987.6473411820125
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,7,False,5047.259256269684
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,8,False,8346.366035586985
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,9,False,9346.219877576174
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,10,False,10846.051170817884
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,11,False,11450.529507407071
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,12,False,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,13,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,14,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,15,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,16,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,17,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,18,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,19,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,20,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,21,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,22,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,23,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,24,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,25,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,26,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,27,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,28,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,29,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,30,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,31,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,32,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,33,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,34,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,35,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,36,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,37,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,38,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,39,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,40,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,41,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,42,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,43,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,44,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,45,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,46,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,47,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,48,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,49,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,1,50,True,11345.000044072278
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,0,False,1979.1071219112926
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,1,False,1202.0253741082174
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,2,False,6930.863221850508
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,3,False,3138.608768228369
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,4,False,3997.8575512391635
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,5,False,3248.8251722738173
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,6,False,1371.830893368421
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,7,False,2733.7300525106716
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,8,False,1688.0832325451254
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,9,False,2361.6995998644707
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,10,False,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,11,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,12,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,13,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,14,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,15,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,16,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,17,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,18,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,19,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,20,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,21,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,22,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,23,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,24,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,25,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,26,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,27,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,28,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,29,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,30,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,31,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,32,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,33,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,34,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,35,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,36,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,37,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,38,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,39,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,40,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,41,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,42,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,43,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,44,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,45,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,46,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,47,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,48,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,49,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,2,50,True,168.04761230080004
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,0,False,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,1,False,451.8517455980446
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,2,False,6296.679283558914
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,3,False,5723.650059184261
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,4,False,10292.918439393174
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,5,False,5182.8727555285395
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,6,False,5817.402341251634
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,7,False,5207.318887873106
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,8,False,9358.855165029534
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,9,False,9055.615384942097
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,10,False,5718.406246499107
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,11,False,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,12,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,13,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,14,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,15,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,16,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,17,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,18,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,19,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,20,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,21,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,22,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,23,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,24,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,25,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,26,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,27,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,28,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,29,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,30,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,31,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,32,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,33,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,34,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,35,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,36,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,37,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,38,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,39,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,40,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,41,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,42,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,43,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,44,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,45,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,46,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,47,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,48,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,49,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,3,50,True,2313.4757400932476
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,0,False,3626.1683634381898
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,1,False,1155.4639760719501
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,2,False,6554.624092959108
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,3,False,9527.701559137964
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,4,False,8038.662637528708
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,5,False,8534.875335937837
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,6,False,8024.717876660836
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,7,False,7969.196760025442
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,8,False,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,9,False,8148.607058878223
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,10,False,4177.056020692085
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,11,False,6256.82003896548
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,12,False,6685.790678745484
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,13,False,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,14,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,15,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,16,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,17,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,18,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,19,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,20,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,21,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,22,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,23,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,24,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,25,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,26,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,27,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,28,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,29,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,30,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,31,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,32,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,33,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,34,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,35,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,36,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,37,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,38,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,39,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,40,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,41,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,42,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,43,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,44,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,45,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,46,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,47,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,48,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,49,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,4,50,True,6158.230021686426
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,0,False,2132.6312386345653
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,1,False,2578.394073837434
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,2,False,4521.959309856735
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,3,False,1664.9672669455097
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,4,False,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,5,False,1850.0043243192704
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,6,False,2150.0037209270126
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,7,False,2009.6059315199086
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,8,False,2001.628337129548
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,9,False,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,10,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,11,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,12,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,13,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,14,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,15,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,16,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,17,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,18,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,19,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,20,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,21,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,22,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,23,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,24,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,25,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,26,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,27,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,28,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,29,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,30,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,31,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,32,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,33,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,34,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,35,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,36,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,37,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,38,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,39,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,40,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,41,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,42,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,43,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,44,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,45,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,46,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,47,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,48,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,49,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,5,50,True,150.05332385522155
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,0,False,3185.50780881165
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,1,False,1929.6269069434122
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,2,False,4634.16227596747
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,3,False,2611.4095810500503
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,4,False,1394.2241570134984
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,5,False,2894.1079800173316
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,6,False,570.753887415583
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,7,False,1386.0591617964942
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,8,False,1430.5596806844515
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,9,False,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,10,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,11,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,12,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,13,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,14,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,15,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,16,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,17,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,18,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,19,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,20,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,21,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,22,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,23,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,24,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,25,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,26,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,27,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,28,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,29,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,30,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,31,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,32,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,33,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,34,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,35,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,36,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,37,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,38,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,39,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,40,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,41,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,42,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,43,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,44,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,45,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,46,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,47,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,48,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,49,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,6,50,True,108.25894882179486
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,0,False,1843.9023835333583
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,1,False,3708.9049596882364
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,2,False,6489.374083838903
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,3,False,3431.614197429542
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,4,False,4868.672919800631
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,5,False,4721.268473620198
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,6,False,2681.846565335161
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,7,False,1366.4464863286817
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,8,False,1448.5772330117577
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,9,False,1084.378162819595
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,10,False,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,11,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,12,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,13,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,14,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,15,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,16,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,17,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,18,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,19,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,20,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,21,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,22,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,23,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,24,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,25,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,26,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,27,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,28,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,29,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,30,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,31,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,32,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,33,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,34,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,35,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,36,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,37,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,38,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,39,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,40,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,41,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,42,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,43,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,44,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,45,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,46,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,47,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,48,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,49,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,7,50,True,590.7122819105762
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,0,False,2943.0304109879667
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,1,False,182.8332573685652
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,2,False,5940.490552134563
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,3,False,4441.331782247303
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,4,False,2069.1611827018214
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,5,False,4065.639925030253
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,6,False,4323.5897122645665
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,7,False,4077.919567622687
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,8,False,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,9,False,1738.1392349291239
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,10,False,2262.1069824391593
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,11,False,2038.9036269524854
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,12,False,1995.2764219526075
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,13,False,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,14,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,15,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,16,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,17,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,18,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,19,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,20,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,21,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,22,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,23,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,24,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,25,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,26,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,27,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,28,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,29,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,30,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,31,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,32,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,33,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,34,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,35,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,36,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,37,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,38,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,39,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,40,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,41,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,42,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,43,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,44,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,45,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,46,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,47,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,48,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,49,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,8,50,True,262.9220416777566
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,0,False,4095.0877890467746
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,1,False,1908.3354002900014
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,2,False,5281.074133166471
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,3,False,2917.832071932859
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,4,False,1400.6227186505294
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,5,False,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,6,False,1389.008279312978
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,7,False,1981.4499741351028
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,8,False,1317.476375499766
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,9,False,2340.8853026152306
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,10,False,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,11,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,12,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,13,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,14,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,15,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,16,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,17,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,18,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,19,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,20,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,21,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,22,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,23,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,24,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,25,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,26,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,27,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,28,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,29,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,30,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,31,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,32,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,33,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,34,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,35,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,36,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,37,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,38,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,39,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,40,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,41,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,42,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,43,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,44,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,45,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,46,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,47,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,48,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,49,True,606.4189970639112
+gemini_3_5_flash,Gemini 3.5 Flash,llm,9,50,True,606.4189970639112
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,0,False,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,1,False,9475.625203647514
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,2,False,6911.691037654968
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,3,False,6874.552567258468
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,4,False,3507.060450006529
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,5,False,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,6,False,731.7602066250938
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,7,False,5002.346749276783
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,8,False,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,9,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,10,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,11,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,12,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,13,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,14,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,15,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,16,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,17,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,18,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,19,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,20,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,21,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,22,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,23,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,24,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,25,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,26,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,27,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,28,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,29,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,30,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,31,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,32,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,33,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,34,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,35,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,36,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,37,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,38,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,39,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,40,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,41,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,42,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,43,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,44,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,45,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,46,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,47,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,48,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,49,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,0,50,True,2186.2005854907275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,0,False,3375.000148148145
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,1,False,4676.60410982157
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,2,False,11353.881538927557
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,3,False,3375.000148148145
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,4,False,5363.825686951432
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,5,False,5862.22022786589
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,6,False,5662.828445220639
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,7,False,5648.063916068939
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,8,False,6393.795899150989
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,9,False,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,10,False,6134.453928427533
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,11,False,5137.65754016361
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,12,False,5618.231483305044
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,13,False,5697.589402545606
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,14,False,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,15,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,16,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,17,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,18,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,19,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,20,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,21,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,22,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,23,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,24,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,25,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,26,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,27,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,28,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,29,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,30,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,31,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,32,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,33,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,34,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,35,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,36,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,37,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,38,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,39,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,40,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,41,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,42,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,43,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,44,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,45,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,46,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,47,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,48,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,49,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,1,50,True,5635.913856687307
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,0,False,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,1,False,9925.16322283921
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,2,False,5833.255094713414
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,3,False,4879.22791023334
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,4,False,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,5,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,6,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,7,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,8,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,9,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,10,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,11,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,12,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,13,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,14,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,15,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,16,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,17,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,18,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,19,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,20,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,21,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,22,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,23,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,24,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,25,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,26,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,27,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,28,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,29,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,30,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,31,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,32,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,33,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,34,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,35,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,36,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,37,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,38,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,39,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,40,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,41,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,42,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,43,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,44,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,45,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,46,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,47,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,48,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,49,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,2,50,True,1979.1071219112926
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,0,False,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,1,False,5723.650059184261
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,2,False,10292.918439393174
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,3,False,5182.8727555285395
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,4,False,5817.402341251634
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,5,False,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,6,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,7,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,8,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,9,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,10,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,11,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,12,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,13,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,14,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,15,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,16,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,17,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,18,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,19,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,20,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,21,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,22,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,23,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,24,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,25,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,26,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,27,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,28,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,29,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,30,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,31,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,32,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,33,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,34,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,35,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,36,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,37,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,38,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,39,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,40,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,41,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,42,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,43,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,44,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,45,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,46,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,47,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,48,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,49,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,3,50,True,2313.4757400932476
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,0,False,3626.1683634381898
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,1,False,11517.512622089893
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,2,False,4652.429150454631
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,3,False,1181.988578625022
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,4,False,1056.7573042094386
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,5,False,6979.19028254711
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,6,False,5252.532436834636
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,7,False,4967.806054990472
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,8,False,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,9,False,787.3506207529147
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,10,False,836.6128136718921
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,11,False,1139.7021540735982
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,12,False,55.86591089385369
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,13,False,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,14,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,15,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,16,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,17,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,18,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,19,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,20,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,21,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,22,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,23,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,24,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,25,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,26,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,27,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,28,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,29,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,30,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,31,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,32,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,33,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,34,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,35,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,36,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,37,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,38,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,39,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,40,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,41,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,42,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,43,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,44,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,45,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,46,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,47,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,48,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,49,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,4,50,True,640.2507321354658
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,0,False,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,1,False,9324.59736396162
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,2,False,6892.613147420941
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,3,False,7081.533449755074
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,4,False,9649.254686243907
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,5,False,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,6,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,7,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,8,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,9,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,10,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,11,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,12,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,13,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,14,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,15,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,16,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,17,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,18,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,19,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,20,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,21,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,22,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,23,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,24,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,25,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,26,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,27,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,28,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,29,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,30,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,31,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,32,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,33,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,34,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,35,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,36,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,37,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,38,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,39,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,40,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,41,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,42,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,43,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,44,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,45,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,46,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,47,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,48,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,49,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,5,50,True,2132.6312386345653
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,0,False,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,1,False,10763.059973817855
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,2,False,4102.128715679214
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,3,False,7312.144692222659
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,4,False,11069.031574622957
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,5,False,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,6,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,7,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,8,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,9,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,10,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,11,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,12,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,13,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,14,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,15,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,16,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,17,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,18,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,19,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,20,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,21,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,22,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,23,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,24,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,25,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,26,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,27,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,28,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,29,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,30,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,31,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,32,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,33,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,34,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,35,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,36,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,37,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,38,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,39,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,40,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,41,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,42,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,43,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,44,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,45,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,46,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,47,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,48,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,49,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,6,50,True,3185.50780881165
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,0,False,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,1,False,8427.097721042517
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,2,False,7986.487087574862
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,3,False,3178.045940511244
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,4,False,6833.738069314627
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,5,False,5743.864204522944
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,6,False,4278.78206970161
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,7,False,3833.0113487961394
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,8,False,707.0898104201474
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,9,False,1191.6274585624485
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,10,False,282.8002828852899
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,11,False,399.96999887491563
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,12,False,860.2185768745057
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,13,False,1349.0648613020799
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,14,False,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,15,False,2548.7204632913354
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,16,False,2881.662020431959
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,17,False,2340.934855992366
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,18,False,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,19,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,20,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,21,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,22,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,23,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,24,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,25,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,26,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,27,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,28,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,29,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,30,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,31,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,32,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,33,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,34,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,35,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,36,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,37,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,38,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,39,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,40,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,41,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,42,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,43,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,44,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,45,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,46,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,47,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,48,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,49,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,7,50,True,1843.9023835333583
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,0,False,2943.0304109879667
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,1,False,10939.352266016485
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,2,False,5948.228980125093
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,3,False,5651.674796022857
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,4,False,6940.131699038571
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,5,False,4940.994636710305
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,6,False,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,7,False,6940.131699038571
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,8,False,5940.490552134563
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,9,False,6543.808371277386
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,10,False,6491.026729262482
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,11,False,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,12,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,13,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,14,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,15,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,16,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,17,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,18,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,19,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,20,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,21,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,22,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,23,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,24,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,25,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,26,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,27,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,28,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,29,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,30,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,31,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,32,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,33,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,34,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,35,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,36,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,37,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,38,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,39,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,40,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,41,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,42,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,43,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,44,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,45,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,46,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,47,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,48,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,49,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,8,50,True,6440.29719811128
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,0,False,4095.0877890467746
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,1,False,11822.763805472898
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,2,False,4664.948445588654
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,3,False,7718.143818302429
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,4,False,4895.890521651807
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,5,False,7891.371490431812
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,6,False,6920.819604642214
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,7,False,7405.1160693131615
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,8,False,7648.022228001171
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,9,False,7793.981267619265
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,10,False,7891.371490431812
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,11,False,7842.668168423295
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,12,False,7871.8882105883595
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,13,False,7881.629526944285
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,14,False,7886.500427946479
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,15,False,7889.423046078845
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,16,False,7890.3972650304495
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,17,False,7891.371490431812
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,18,False,7890.3972650304495
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,19,False,3714.3920094680366
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,20,False,3884.551969017791
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,21,False,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,22,False,7690.711800607275
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,23,False,7680.728350879232
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,24,False,7670.744944267147
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,25,False,7660.761580939587
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,26,False,7650.778261065994
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,27,False,7640.794984816698
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,28,False,7630.811752362916
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,29,False,7620.828563876766
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,30,False,7610.845419531262
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,31,False,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,32,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,33,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,34,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,35,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,36,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,37,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,38,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,39,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,40,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,41,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,42,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,43,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,44,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,45,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,46,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,47,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,48,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,49,True,7700.6952932835875
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,llm,9,50,True,7700.6952932835875
+bayes,Bayesian optimization,oracle,0,0,False,2186.2005854907275
+bayes,Bayesian optimization,oracle,0,1,False,2186.2005854907275
+bayes,Bayesian optimization,oracle,0,2,False,2186.2005854907275
+bayes,Bayesian optimization,oracle,0,3,False,2186.2005854907275
+bayes,Bayesian optimization,oracle,0,4,False,2184.6374985337957
+bayes,Bayesian optimization,oracle,0,5,False,837.2156233611506
+bayes,Bayesian optimization,oracle,0,6,False,837.2156233611506
+bayes,Bayesian optimization,oracle,0,7,False,707.0537461890715
+bayes,Bayesian optimization,oracle,0,8,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,9,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,10,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,11,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,12,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,13,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,14,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,15,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,16,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,17,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,18,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,19,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,20,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,21,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,22,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,23,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,24,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,25,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,26,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,27,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,28,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,29,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,30,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,31,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,32,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,33,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,34,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,35,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,36,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,37,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,38,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,39,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,40,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,41,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,42,False,48.05205510693585
+bayes,Bayesian optimization,oracle,0,43,False,39.84971769034255
+bayes,Bayesian optimization,oracle,0,44,False,39.84971769034255
+bayes,Bayesian optimization,oracle,0,45,False,39.84971769034255
+bayes,Bayesian optimization,oracle,0,46,False,39.84971769034255
+bayes,Bayesian optimization,oracle,0,47,False,15.524174696260024
+bayes,Bayesian optimization,oracle,0,48,False,15.524174696260024
+bayes,Bayesian optimization,oracle,0,49,False,15.524174696260024
+bayes,Bayesian optimization,oracle,0,50,False,15.524174696260024
+bayes,Bayesian optimization,oracle,1,0,False,3375.000148148145
+bayes,Bayesian optimization,oracle,1,1,False,3375.000148148145
+bayes,Bayesian optimization,oracle,1,2,False,3375.000148148145
+bayes,Bayesian optimization,oracle,1,3,False,3375.000148148145
+bayes,Bayesian optimization,oracle,1,4,False,2649.7475351436788
+bayes,Bayesian optimization,oracle,1,5,False,2633.2779951991397
+bayes,Bayesian optimization,oracle,1,6,False,643.6536335638913
+bayes,Bayesian optimization,oracle,1,7,False,643.6536335638913
+bayes,Bayesian optimization,oracle,1,8,False,643.6536335638913
+bayes,Bayesian optimization,oracle,1,9,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,10,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,11,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,12,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,13,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,14,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,15,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,16,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,17,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,18,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,19,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,20,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,21,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,22,False,73.49829930005184
+bayes,Bayesian optimization,oracle,1,23,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,24,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,25,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,26,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,27,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,28,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,29,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,30,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,31,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,32,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,33,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,34,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,35,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,36,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,37,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,38,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,39,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,40,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,41,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,42,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,43,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,44,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,45,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,46,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,47,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,48,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,49,False,36.61966684720111
+bayes,Bayesian optimization,oracle,1,50,False,36.61966684720111
+bayes,Bayesian optimization,oracle,2,0,False,1979.1071219112926
+bayes,Bayesian optimization,oracle,2,1,False,1979.1071219112926
+bayes,Bayesian optimization,oracle,2,2,False,1979.1071219112926
+bayes,Bayesian optimization,oracle,2,3,False,1907.4223444219165
+bayes,Bayesian optimization,oracle,2,4,False,1907.4223444219165
+bayes,Bayesian optimization,oracle,2,5,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,6,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,7,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,8,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,9,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,10,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,11,False,304.2367499169027
+bayes,Bayesian optimization,oracle,2,12,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,13,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,14,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,15,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,16,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,17,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,18,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,19,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,20,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,21,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,22,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,23,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,24,False,168.34488409215172
+bayes,Bayesian optimization,oracle,2,25,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,26,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,27,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,28,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,29,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,30,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,31,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,32,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,33,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,34,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,35,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,36,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,37,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,38,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,39,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,40,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,41,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,42,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,43,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,44,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,45,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,46,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,47,False,51.35172830587107
+bayes,Bayesian optimization,oracle,2,48,False,18.439088914585774
+bayes,Bayesian optimization,oracle,2,49,False,18.439088914585774
+bayes,Bayesian optimization,oracle,2,50,False,18.439088914585774
+bayes,Bayesian optimization,oracle,3,0,False,2313.4757400932476
+bayes,Bayesian optimization,oracle,3,1,False,2313.4757400932476
+bayes,Bayesian optimization,oracle,3,2,False,2313.4757400932476
+bayes,Bayesian optimization,oracle,3,3,False,2313.4757400932476
+bayes,Bayesian optimization,oracle,3,4,False,2211.041835877377
+bayes,Bayesian optimization,oracle,3,5,False,806.8766944211488
+bayes,Bayesian optimization,oracle,3,6,False,806.8766944211488
+bayes,Bayesian optimization,oracle,3,7,False,805.314845262398
+bayes,Bayesian optimization,oracle,3,8,False,380.8017857100988
+bayes,Bayesian optimization,oracle,3,9,False,380.8017857100988
+bayes,Bayesian optimization,oracle,3,10,False,380.8017857100988
+bayes,Bayesian optimization,oracle,3,11,False,380.8017857100988
+bayes,Bayesian optimization,oracle,3,12,False,380.34852438257207
+bayes,Bayesian optimization,oracle,3,13,False,275.42694131112154
+bayes,Bayesian optimization,oracle,3,14,False,275.42694131112154
+bayes,Bayesian optimization,oracle,3,15,False,275.42694131112154
+bayes,Bayesian optimization,oracle,3,16,False,275.42694131112154
+bayes,Bayesian optimization,oracle,3,17,False,275.42694131112154
+bayes,Bayesian optimization,oracle,3,18,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,19,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,20,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,21,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,22,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,23,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,24,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,25,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,26,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,27,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,28,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,29,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,30,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,31,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,32,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,33,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,34,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,35,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,36,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,37,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,38,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,39,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,40,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,41,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,42,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,43,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,44,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,45,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,46,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,47,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,48,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,49,False,34.0147027033899
+bayes,Bayesian optimization,oracle,3,50,False,34.0147027033899
+bayes,Bayesian optimization,oracle,4,0,False,3626.1683634381898
+bayes,Bayesian optimization,oracle,4,1,False,1316.5959896642553
+bayes,Bayesian optimization,oracle,4,2,False,1316.5959896642553
+bayes,Bayesian optimization,oracle,4,3,False,1075.9000882981654
+bayes,Bayesian optimization,oracle,4,4,False,1075.9000882981654
+bayes,Bayesian optimization,oracle,4,5,False,376.25789028271555
+bayes,Bayesian optimization,oracle,4,6,False,376.25789028271555
+bayes,Bayesian optimization,oracle,4,7,False,376.25789028271555
+bayes,Bayesian optimization,oracle,4,8,False,286.22019495486336
+bayes,Bayesian optimization,oracle,4,9,False,286.22019495486336
+bayes,Bayesian optimization,oracle,4,10,False,286.22019495486336
+bayes,Bayesian optimization,oracle,4,11,False,286.22019495486336
+bayes,Bayesian optimization,oracle,4,12,False,286.22019495486336
+bayes,Bayesian optimization,oracle,4,13,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,14,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,15,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,16,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,17,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,18,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,19,False,204.70710783946902
+bayes,Bayesian optimization,oracle,4,20,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,21,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,22,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,23,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,24,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,25,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,26,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,27,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,28,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,29,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,30,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,31,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,32,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,33,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,34,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,35,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,36,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,37,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,38,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,39,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,40,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,41,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,42,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,43,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,44,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,45,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,46,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,47,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,48,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,49,False,21.95449840010015
+bayes,Bayesian optimization,oracle,4,50,False,21.95449840010015
+bayes,Bayesian optimization,oracle,5,0,False,2132.6312386345653
+bayes,Bayesian optimization,oracle,5,1,False,2132.6312386345653
+bayes,Bayesian optimization,oracle,5,2,False,1297.6166614220087
+bayes,Bayesian optimization,oracle,5,3,False,1086.7313375439212
+bayes,Bayesian optimization,oracle,5,4,False,1076.8904308238605
+bayes,Bayesian optimization,oracle,5,5,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,6,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,7,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,8,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,9,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,10,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,11,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,12,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,13,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,14,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,15,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,16,False,226.59214461229675
+bayes,Bayesian optimization,oracle,5,17,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,18,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,19,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,20,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,21,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,22,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,23,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,24,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,25,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,26,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,27,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,28,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,29,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,30,False,102.44998779892558
+bayes,Bayesian optimization,oracle,5,31,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,32,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,33,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,34,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,35,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,36,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,37,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,38,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,39,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,40,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,41,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,42,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,43,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,44,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,45,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,46,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,47,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,48,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,49,False,30.675723300355934
+bayes,Bayesian optimization,oracle,5,50,False,30.675723300355934
+bayes,Bayesian optimization,oracle,6,0,False,3185.50780881165
+bayes,Bayesian optimization,oracle,6,1,False,3185.50780881165
+bayes,Bayesian optimization,oracle,6,2,False,3185.50780881165
+bayes,Bayesian optimization,oracle,6,3,False,3185.50780881165
+bayes,Bayesian optimization,oracle,6,4,False,3185.50780881165
+bayes,Bayesian optimization,oracle,6,5,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,6,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,7,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,8,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,9,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,10,False,1100.55667732289
+bayes,Bayesian optimization,oracle,6,11,False,206.0218435020908
+bayes,Bayesian optimization,oracle,6,12,False,206.0218435020908
+bayes,Bayesian optimization,oracle,6,13,False,206.0218435020908
+bayes,Bayesian optimization,oracle,6,14,False,206.0218435020908
+bayes,Bayesian optimization,oracle,6,15,False,206.0218435020908
+bayes,Bayesian optimization,oracle,6,16,False,40.0
+bayes,Bayesian optimization,oracle,6,17,False,40.0
+bayes,Bayesian optimization,oracle,6,18,False,40.0
+bayes,Bayesian optimization,oracle,6,19,False,40.0
+bayes,Bayesian optimization,oracle,6,20,False,40.0
+bayes,Bayesian optimization,oracle,6,21,False,40.0
+bayes,Bayesian optimization,oracle,6,22,False,40.0
+bayes,Bayesian optimization,oracle,6,23,False,40.0
+bayes,Bayesian optimization,oracle,6,24,False,40.0
+bayes,Bayesian optimization,oracle,6,25,False,40.0
+bayes,Bayesian optimization,oracle,6,26,False,40.0
+bayes,Bayesian optimization,oracle,6,27,False,40.0
+bayes,Bayesian optimization,oracle,6,28,False,40.0
+bayes,Bayesian optimization,oracle,6,29,False,40.0
+bayes,Bayesian optimization,oracle,6,30,False,40.0
+bayes,Bayesian optimization,oracle,6,31,False,40.0
+bayes,Bayesian optimization,oracle,6,32,False,40.0
+bayes,Bayesian optimization,oracle,6,33,False,40.0
+bayes,Bayesian optimization,oracle,6,34,False,40.0
+bayes,Bayesian optimization,oracle,6,35,False,40.0
+bayes,Bayesian optimization,oracle,6,36,False,40.0
+bayes,Bayesian optimization,oracle,6,37,False,40.0
+bayes,Bayesian optimization,oracle,6,38,False,40.0
+bayes,Bayesian optimization,oracle,6,39,False,40.0
+bayes,Bayesian optimization,oracle,6,40,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,41,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,42,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,43,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,44,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,45,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,46,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,47,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,48,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,49,False,23.194827009486403
+bayes,Bayesian optimization,oracle,6,50,False,23.194827009486403
+bayes,Bayesian optimization,oracle,7,0,False,1843.9023835333583
+bayes,Bayesian optimization,oracle,7,1,False,1843.9023835333583
+bayes,Bayesian optimization,oracle,7,2,False,1843.9023835333583
+bayes,Bayesian optimization,oracle,7,3,False,512.7826050091793
+bayes,Bayesian optimization,oracle,7,4,False,512.7826050091793
+bayes,Bayesian optimization,oracle,7,5,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,6,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,7,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,8,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,9,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,10,False,442.24201519077764
+bayes,Bayesian optimization,oracle,7,11,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,12,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,13,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,14,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,15,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,16,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,17,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,18,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,19,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,20,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,21,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,22,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,23,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,24,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,25,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,26,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,27,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,28,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,29,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,30,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,31,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,32,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,33,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,34,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,35,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,36,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,37,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,38,False,59.64059020499378
+bayes,Bayesian optimization,oracle,7,39,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,40,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,41,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,42,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,43,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,44,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,45,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,46,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,47,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,48,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,49,False,39.698866482558415
+bayes,Bayesian optimization,oracle,7,50,False,39.698866482558415
+bayes,Bayesian optimization,oracle,8,0,False,2943.0304109879667
+bayes,Bayesian optimization,oracle,8,1,False,2772.1421319982855
+bayes,Bayesian optimization,oracle,8,2,False,2772.1421319982855
+bayes,Bayesian optimization,oracle,8,3,False,2772.1421319982855
+bayes,Bayesian optimization,oracle,8,4,False,925.8104557629493
+bayes,Bayesian optimization,oracle,8,5,False,925.8104557629493
+bayes,Bayesian optimization,oracle,8,6,False,925.8104557629493
+bayes,Bayesian optimization,oracle,8,7,False,925.8104557629493
+bayes,Bayesian optimization,oracle,8,8,False,581.1548846908197
+bayes,Bayesian optimization,oracle,8,9,False,581.1548846908197
+bayes,Bayesian optimization,oracle,8,10,False,581.1548846908197
+bayes,Bayesian optimization,oracle,8,11,False,528.2660314652079
+bayes,Bayesian optimization,oracle,8,12,False,220.238507078122
+bayes,Bayesian optimization,oracle,8,13,False,220.238507078122
+bayes,Bayesian optimization,oracle,8,14,False,220.238507078122
+bayes,Bayesian optimization,oracle,8,15,False,220.238507078122
+bayes,Bayesian optimization,oracle,8,16,False,220.238507078122
+bayes,Bayesian optimization,oracle,8,17,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,18,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,19,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,20,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,21,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,22,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,23,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,24,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,25,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,26,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,27,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,28,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,29,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,30,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,31,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,32,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,33,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,34,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,35,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,36,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,37,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,38,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,39,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,40,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,41,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,42,False,65.94694837519019
+bayes,Bayesian optimization,oracle,8,43,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,44,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,45,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,46,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,47,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,48,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,49,False,10.04987562112089
+bayes,Bayesian optimization,oracle,8,50,False,10.04987562112089
+bayes,Bayesian optimization,oracle,9,0,False,4095.0877890467746
+bayes,Bayesian optimization,oracle,9,1,False,4095.0877890467746
+bayes,Bayesian optimization,oracle,9,2,False,4095.0877890467746
+bayes,Bayesian optimization,oracle,9,3,False,4095.0877890467746
+bayes,Bayesian optimization,oracle,9,4,False,801.9177015130667
+bayes,Bayesian optimization,oracle,9,5,False,801.9177015130667
+bayes,Bayesian optimization,oracle,9,6,False,801.9177015130667
+bayes,Bayesian optimization,oracle,9,7,False,801.9177015130667
+bayes,Bayesian optimization,oracle,9,8,False,801.9177015130667
+bayes,Bayesian optimization,oracle,9,9,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,10,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,11,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,12,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,13,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,14,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,15,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,16,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,17,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,18,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,19,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,20,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,21,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,22,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,23,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,24,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,25,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,26,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,27,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,28,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,29,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,30,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,31,False,63.56099432828282
+bayes,Bayesian optimization,oracle,9,32,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,33,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,34,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,35,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,36,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,37,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,38,False,62.12889826803627
+bayes,Bayesian optimization,oracle,9,39,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,40,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,41,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,42,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,43,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,44,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,45,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,46,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,47,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,48,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,49,False,40.80441152620633
+bayes,Bayesian optimization,oracle,9,50,False,40.80441152620633
+random,Random search,oracle,0,0,False,2186.2005854907275
+random,Random search,oracle,0,1,False,2186.2005854907275
+random,Random search,oracle,0,2,False,2186.2005854907275
+random,Random search,oracle,0,3,False,2186.2005854907275
+random,Random search,oracle,0,4,False,2186.2005854907275
+random,Random search,oracle,0,5,False,2186.2005854907275
+random,Random search,oracle,0,6,False,2186.2005854907275
+random,Random search,oracle,0,7,False,2186.2005854907275
+random,Random search,oracle,0,8,False,2186.2005854907275
+random,Random search,oracle,0,9,False,2186.2005854907275
+random,Random search,oracle,0,10,False,2186.2005854907275
+random,Random search,oracle,0,11,False,2186.2005854907275
+random,Random search,oracle,0,12,False,2186.2005854907275
+random,Random search,oracle,0,13,False,2186.2005854907275
+random,Random search,oracle,0,14,False,2186.2005854907275
+random,Random search,oracle,0,15,False,2186.2005854907275
+random,Random search,oracle,0,16,False,2186.2005854907275
+random,Random search,oracle,0,17,False,2186.2005854907275
+random,Random search,oracle,0,18,False,2186.2005854907275
+random,Random search,oracle,0,19,False,2186.2005854907275
+random,Random search,oracle,0,20,False,2186.2005854907275
+random,Random search,oracle,0,21,False,2186.2005854907275
+random,Random search,oracle,0,22,False,2186.2005854907275
+random,Random search,oracle,0,23,False,2186.2005854907275
+random,Random search,oracle,0,24,False,909.2991806880725
+random,Random search,oracle,0,25,False,909.2991806880725
+random,Random search,oracle,0,26,False,909.2991806880725
+random,Random search,oracle,0,27,False,909.2991806880725
+random,Random search,oracle,0,28,False,909.2991806880725
+random,Random search,oracle,0,29,False,909.2991806880725
+random,Random search,oracle,0,30,False,909.2991806880725
+random,Random search,oracle,0,31,False,909.2991806880725
+random,Random search,oracle,0,32,False,909.2991806880725
+random,Random search,oracle,0,33,False,909.2991806880725
+random,Random search,oracle,0,34,False,909.2991806880725
+random,Random search,oracle,0,35,False,909.2991806880725
+random,Random search,oracle,0,36,False,909.2991806880725
+random,Random search,oracle,0,37,False,588.8633118135311
+random,Random search,oracle,0,38,False,588.8633118135311
+random,Random search,oracle,0,39,False,588.8633118135311
+random,Random search,oracle,0,40,False,588.8633118135311
+random,Random search,oracle,0,41,False,588.8633118135311
+random,Random search,oracle,0,42,False,588.8633118135311
+random,Random search,oracle,0,43,False,588.8633118135311
+random,Random search,oracle,0,44,False,588.8633118135311
+random,Random search,oracle,0,45,False,588.8633118135311
+random,Random search,oracle,0,46,False,588.8633118135311
+random,Random search,oracle,0,47,False,588.8633118135311
+random,Random search,oracle,0,48,False,588.8633118135311
+random,Random search,oracle,0,49,False,588.8633118135311
+random,Random search,oracle,0,50,False,588.8633118135311
+random,Random search,oracle,1,0,False,3375.000148148145
+random,Random search,oracle,1,1,False,3375.000148148145
+random,Random search,oracle,1,2,False,3375.000148148145
+random,Random search,oracle,1,3,False,3375.000148148145
+random,Random search,oracle,1,4,False,3375.000148148145
+random,Random search,oracle,1,5,False,3375.000148148145
+random,Random search,oracle,1,6,False,1663.5026299949152
+random,Random search,oracle,1,7,False,1663.5026299949152
+random,Random search,oracle,1,8,False,1663.5026299949152
+random,Random search,oracle,1,9,False,1663.5026299949152
+random,Random search,oracle,1,10,False,1663.5026299949152
+random,Random search,oracle,1,11,False,1663.5026299949152
+random,Random search,oracle,1,12,False,1663.5026299949152
+random,Random search,oracle,1,13,False,1663.5026299949152
+random,Random search,oracle,1,14,False,1663.5026299949152
+random,Random search,oracle,1,15,False,1663.5026299949152
+random,Random search,oracle,1,16,False,1663.5026299949152
+random,Random search,oracle,1,17,False,1663.5026299949152
+random,Random search,oracle,1,18,False,1663.5026299949152
+random,Random search,oracle,1,19,False,1663.5026299949152
+random,Random search,oracle,1,20,False,1663.5026299949152
+random,Random search,oracle,1,21,False,1663.5026299949152
+random,Random search,oracle,1,22,False,1663.5026299949152
+random,Random search,oracle,1,23,False,1663.5026299949152
+random,Random search,oracle,1,24,False,466.3142717095414
+random,Random search,oracle,1,25,False,466.3142717095414
+random,Random search,oracle,1,26,False,466.3142717095414
+random,Random search,oracle,1,27,False,466.3142717095414
+random,Random search,oracle,1,28,False,466.3142717095414
+random,Random search,oracle,1,29,False,466.3142717095414
+random,Random search,oracle,1,30,False,466.3142717095414
+random,Random search,oracle,1,31,False,466.3142717095414
+random,Random search,oracle,1,32,False,466.3142717095414
+random,Random search,oracle,1,33,False,466.3142717095414
+random,Random search,oracle,1,34,False,466.3142717095414
+random,Random search,oracle,1,35,False,466.3142717095414
+random,Random search,oracle,1,36,False,466.3142717095414
+random,Random search,oracle,1,37,False,466.3142717095414
+random,Random search,oracle,1,38,False,466.3142717095414
+random,Random search,oracle,1,39,False,466.3142717095414
+random,Random search,oracle,1,40,False,466.3142717095414
+random,Random search,oracle,1,41,False,466.3142717095414
+random,Random search,oracle,1,42,False,466.3142717095414
+random,Random search,oracle,1,43,False,466.3142717095414
+random,Random search,oracle,1,44,False,466.3142717095414
+random,Random search,oracle,1,45,False,466.3142717095414
+random,Random search,oracle,1,46,False,466.3142717095414
+random,Random search,oracle,1,47,False,466.3142717095414
+random,Random search,oracle,1,48,False,466.3142717095414
+random,Random search,oracle,1,49,False,466.3142717095414
+random,Random search,oracle,1,50,False,466.3142717095414
+random,Random search,oracle,2,0,False,1979.1071219112926
+random,Random search,oracle,2,1,False,1979.1071219112926
+random,Random search,oracle,2,2,False,1979.1071219112926
+random,Random search,oracle,2,3,False,1979.1071219112926
+random,Random search,oracle,2,4,False,1979.1071219112926
+random,Random search,oracle,2,5,False,1979.1071219112926
+random,Random search,oracle,2,6,False,1979.1071219112926
+random,Random search,oracle,2,7,False,1979.1071219112926
+random,Random search,oracle,2,8,False,1730.8061705459684
+random,Random search,oracle,2,9,False,1730.8061705459684
+random,Random search,oracle,2,10,False,1730.8061705459684
+random,Random search,oracle,2,11,False,1730.8061705459684
+random,Random search,oracle,2,12,False,1730.8061705459684
+random,Random search,oracle,2,13,False,1730.8061705459684
+random,Random search,oracle,2,14,False,1730.8061705459684
+random,Random search,oracle,2,15,False,1730.8061705459684
+random,Random search,oracle,2,16,False,1730.8061705459684
+random,Random search,oracle,2,17,False,1730.8061705459684
+random,Random search,oracle,2,18,False,1730.8061705459684
+random,Random search,oracle,2,19,False,1730.8061705459684
+random,Random search,oracle,2,20,False,1730.8061705459684
+random,Random search,oracle,2,21,False,1730.8061705459684
+random,Random search,oracle,2,22,False,1730.8061705459684
+random,Random search,oracle,2,23,False,1730.8061705459684
+random,Random search,oracle,2,24,False,1730.8061705459684
+random,Random search,oracle,2,25,False,1730.8061705459684
+random,Random search,oracle,2,26,False,1730.8061705459684
+random,Random search,oracle,2,27,False,1730.8061705459684
+random,Random search,oracle,2,28,False,1730.8061705459684
+random,Random search,oracle,2,29,False,1730.8061705459684
+random,Random search,oracle,2,30,False,1730.8061705459684
+random,Random search,oracle,2,31,False,1730.8061705459684
+random,Random search,oracle,2,32,False,1730.8061705459684
+random,Random search,oracle,2,33,False,1730.8061705459684
+random,Random search,oracle,2,34,False,1730.8061705459684
+random,Random search,oracle,2,35,False,1730.8061705459684
+random,Random search,oracle,2,36,False,1730.8061705459684
+random,Random search,oracle,2,37,False,1730.8061705459684
+random,Random search,oracle,2,38,False,1730.8061705459684
+random,Random search,oracle,2,39,False,1730.8061705459684
+random,Random search,oracle,2,40,False,1730.8061705459684
+random,Random search,oracle,2,41,False,1730.8061705459684
+random,Random search,oracle,2,42,False,1730.8061705459684
+random,Random search,oracle,2,43,False,1730.8061705459684
+random,Random search,oracle,2,44,False,1730.8061705459684
+random,Random search,oracle,2,45,False,1730.8061705459684
+random,Random search,oracle,2,46,False,1730.8061705459684
+random,Random search,oracle,2,47,False,1730.8061705459684
+random,Random search,oracle,2,48,False,1730.8061705459684
+random,Random search,oracle,2,49,False,1730.8061705459684
+random,Random search,oracle,2,50,False,1730.8061705459684
+random,Random search,oracle,3,0,False,2313.4757400932476
+random,Random search,oracle,3,1,False,2313.4757400932476
+random,Random search,oracle,3,2,False,2313.4757400932476
+random,Random search,oracle,3,3,False,2313.4757400932476
+random,Random search,oracle,3,4,False,2313.4757400932476
+random,Random search,oracle,3,5,False,2313.4757400932476
+random,Random search,oracle,3,6,False,1217.01479037849
+random,Random search,oracle,3,7,False,1217.01479037849
+random,Random search,oracle,3,8,False,1217.01479037849
+random,Random search,oracle,3,9,False,1217.01479037849
+random,Random search,oracle,3,10,False,1217.01479037849
+random,Random search,oracle,3,11,False,1217.01479037849
+random,Random search,oracle,3,12,False,1217.01479037849
+random,Random search,oracle,3,13,False,1217.01479037849
+random,Random search,oracle,3,14,False,1217.01479037849
+random,Random search,oracle,3,15,False,1217.01479037849
+random,Random search,oracle,3,16,False,1217.01479037849
+random,Random search,oracle,3,17,False,1217.01479037849
+random,Random search,oracle,3,18,False,1217.01479037849
+random,Random search,oracle,3,19,False,1217.01479037849
+random,Random search,oracle,3,20,False,1217.01479037849
+random,Random search,oracle,3,21,False,1217.01479037849
+random,Random search,oracle,3,22,False,1217.01479037849
+random,Random search,oracle,3,23,False,1217.01479037849
+random,Random search,oracle,3,24,False,1217.01479037849
+random,Random search,oracle,3,25,False,1217.01479037849
+random,Random search,oracle,3,26,False,1217.01479037849
+random,Random search,oracle,3,27,False,1217.01479037849
+random,Random search,oracle,3,28,False,1217.01479037849
+random,Random search,oracle,3,29,False,1217.01479037849
+random,Random search,oracle,3,30,False,1217.01479037849
+random,Random search,oracle,3,31,False,1217.01479037849
+random,Random search,oracle,3,32,False,1217.01479037849
+random,Random search,oracle,3,33,False,1217.01479037849
+random,Random search,oracle,3,34,False,1217.01479037849
+random,Random search,oracle,3,35,False,1217.01479037849
+random,Random search,oracle,3,36,False,1217.01479037849
+random,Random search,oracle,3,37,False,1217.01479037849
+random,Random search,oracle,3,38,False,1217.01479037849
+random,Random search,oracle,3,39,False,1217.01479037849
+random,Random search,oracle,3,40,False,1217.01479037849
+random,Random search,oracle,3,41,False,1217.01479037849
+random,Random search,oracle,3,42,False,1217.01479037849
+random,Random search,oracle,3,43,False,1217.01479037849
+random,Random search,oracle,3,44,False,1217.01479037849
+random,Random search,oracle,3,45,False,1217.01479037849
+random,Random search,oracle,3,46,False,1217.01479037849
+random,Random search,oracle,3,47,False,1217.01479037849
+random,Random search,oracle,3,48,False,1217.01479037849
+random,Random search,oracle,3,49,False,1217.01479037849
+random,Random search,oracle,3,50,False,1217.01479037849
+random,Random search,oracle,4,0,False,3626.1683634381898
+random,Random search,oracle,4,1,False,3626.1683634381898
+random,Random search,oracle,4,2,False,3626.1683634381898
+random,Random search,oracle,4,3,False,3626.1683634381898
+random,Random search,oracle,4,4,False,3626.1683634381898
+random,Random search,oracle,4,5,False,3626.1683634381898
+random,Random search,oracle,4,6,False,2006.8206197864322
+random,Random search,oracle,4,7,False,2006.8206197864322
+random,Random search,oracle,4,8,False,2006.8206197864322
+random,Random search,oracle,4,9,False,2006.8206197864322
+random,Random search,oracle,4,10,False,2006.8206197864322
+random,Random search,oracle,4,11,False,2576.027367867042
+random,Random search,oracle,4,12,False,2576.027367867042
+random,Random search,oracle,4,13,False,2576.027367867042
+random,Random search,oracle,4,14,False,1685.107118256878
+random,Random search,oracle,4,15,False,1685.107118256878
+random,Random search,oracle,4,16,False,1685.107118256878
+random,Random search,oracle,4,17,False,1685.107118256878
+random,Random search,oracle,4,18,False,1685.107118256878
+random,Random search,oracle,4,19,False,1685.107118256878
+random,Random search,oracle,4,20,False,1685.107118256878
+random,Random search,oracle,4,21,False,1685.107118256878
+random,Random search,oracle,4,22,False,1685.107118256878
+random,Random search,oracle,4,23,False,1685.107118256878
+random,Random search,oracle,4,24,False,1158.2685353578418
+random,Random search,oracle,4,25,False,1158.2685353578418
+random,Random search,oracle,4,26,False,1158.2685353578418
+random,Random search,oracle,4,27,False,1158.2685353578418
+random,Random search,oracle,4,28,False,1158.2685353578418
+random,Random search,oracle,4,29,False,1158.2685353578418
+random,Random search,oracle,4,30,False,1158.2685353578418
+random,Random search,oracle,4,31,False,1158.2685353578418
+random,Random search,oracle,4,32,False,1158.2685353578418
+random,Random search,oracle,4,33,False,1158.2685353578418
+random,Random search,oracle,4,34,False,1158.2685353578418
+random,Random search,oracle,4,35,False,1158.2685353578418
+random,Random search,oracle,4,36,False,751.0026631111238
+random,Random search,oracle,4,37,False,751.0026631111238
+random,Random search,oracle,4,38,False,751.0026631111238
+random,Random search,oracle,4,39,False,751.0026631111238
+random,Random search,oracle,4,40,False,751.0026631111238
+random,Random search,oracle,4,41,False,751.0026631111238
+random,Random search,oracle,4,42,False,751.0026631111238
+random,Random search,oracle,4,43,False,751.0026631111238
+random,Random search,oracle,4,44,False,751.0026631111238
+random,Random search,oracle,4,45,False,751.0026631111238
+random,Random search,oracle,4,46,False,751.0026631111238
+random,Random search,oracle,4,47,False,751.0026631111238
+random,Random search,oracle,4,48,False,751.0026631111238
+random,Random search,oracle,4,49,False,751.0026631111238
+random,Random search,oracle,4,50,False,751.0026631111238
+random,Random search,oracle,5,0,False,2132.6312386345653
+random,Random search,oracle,5,1,False,2132.6312386345653
+random,Random search,oracle,5,2,False,1454.1076301292144
+random,Random search,oracle,5,3,False,1454.1076301292144
+random,Random search,oracle,5,4,False,1454.1076301292144
+random,Random search,oracle,5,5,False,1454.1076301292144
+random,Random search,oracle,5,6,False,1454.1076301292144
+random,Random search,oracle,5,7,False,1454.1076301292144
+random,Random search,oracle,5,8,False,1454.1076301292144
+random,Random search,oracle,5,9,False,776.415481556106
+random,Random search,oracle,5,10,False,776.415481556106
+random,Random search,oracle,5,11,False,776.415481556106
+random,Random search,oracle,5,12,False,635.2928458592935
+random,Random search,oracle,5,13,False,635.2928458592935
+random,Random search,oracle,5,14,False,635.2928458592935
+random,Random search,oracle,5,15,False,635.2928458592935
+random,Random search,oracle,5,16,False,635.2928458592935
+random,Random search,oracle,5,17,False,635.2928458592935
+random,Random search,oracle,5,18,False,635.2928458592935
+random,Random search,oracle,5,19,False,635.2928458592935
+random,Random search,oracle,5,20,False,635.2928458592935
+random,Random search,oracle,5,21,False,635.2928458592935
+random,Random search,oracle,5,22,False,635.2928458592935
+random,Random search,oracle,5,23,False,635.2928458592935
+random,Random search,oracle,5,24,False,635.2928458592935
+random,Random search,oracle,5,25,False,635.2928458592935
+random,Random search,oracle,5,26,False,635.2928458592935
+random,Random search,oracle,5,27,False,635.2928458592935
+random,Random search,oracle,5,28,False,635.2928458592935
+random,Random search,oracle,5,29,False,635.2928458592935
+random,Random search,oracle,5,30,False,635.2928458592935
+random,Random search,oracle,5,31,False,635.2928458592935
+random,Random search,oracle,5,32,False,635.2928458592935
+random,Random search,oracle,5,33,False,635.2928458592935
+random,Random search,oracle,5,34,False,635.2928458592935
+random,Random search,oracle,5,35,False,635.2928458592935
+random,Random search,oracle,5,36,False,635.2928458592935
+random,Random search,oracle,5,37,False,635.2928458592935
+random,Random search,oracle,5,38,False,635.2928458592935
+random,Random search,oracle,5,39,False,635.2928458592935
+random,Random search,oracle,5,40,False,635.2928458592935
+random,Random search,oracle,5,41,False,635.2928458592935
+random,Random search,oracle,5,42,False,635.2928458592935
+random,Random search,oracle,5,43,False,635.2928458592935
+random,Random search,oracle,5,44,False,635.2928458592935
+random,Random search,oracle,5,45,False,513.3751065254334
+random,Random search,oracle,5,46,False,513.3751065254334
+random,Random search,oracle,5,47,False,513.3751065254334
+random,Random search,oracle,5,48,False,513.3751065254334
+random,Random search,oracle,5,49,False,513.3751065254334
+random,Random search,oracle,5,50,False,513.3751065254334
+random,Random search,oracle,6,0,False,3185.50780881165
+random,Random search,oracle,6,1,False,3185.50780881165
+random,Random search,oracle,6,2,False,3386.181625370972
+random,Random search,oracle,6,3,False,1920.4949882777616
+random,Random search,oracle,6,4,False,1920.4949882777616
+random,Random search,oracle,6,5,False,1920.4949882777616
+random,Random search,oracle,6,6,False,1920.4949882777616
+random,Random search,oracle,6,7,False,1920.4949882777616
+random,Random search,oracle,6,8,False,1920.4949882777616
+random,Random search,oracle,6,9,False,1920.4949882777616
+random,Random search,oracle,6,10,False,1920.4949882777616
+random,Random search,oracle,6,11,False,1920.4949882777616
+random,Random search,oracle,6,12,False,1920.4949882777616
+random,Random search,oracle,6,13,False,1920.4949882777616
+random,Random search,oracle,6,14,False,1512.6152848626118
+random,Random search,oracle,6,15,False,1512.6152848626118
+random,Random search,oracle,6,16,False,1512.6152848626118
+random,Random search,oracle,6,17,False,1512.6152848626118
+random,Random search,oracle,6,18,False,1512.6152848626118
+random,Random search,oracle,6,19,False,1512.6152848626118
+random,Random search,oracle,6,20,False,1512.6152848626118
+random,Random search,oracle,6,21,False,1512.6152848626118
+random,Random search,oracle,6,22,False,1512.6152848626118
+random,Random search,oracle,6,23,False,1512.6152848626118
+random,Random search,oracle,6,24,False,1512.6152848626118
+random,Random search,oracle,6,25,False,1512.6152848626118
+random,Random search,oracle,6,26,False,1512.6152848626118
+random,Random search,oracle,6,27,False,1512.6152848626118
+random,Random search,oracle,6,28,False,1512.6152848626118
+random,Random search,oracle,6,29,False,1512.6152848626118
+random,Random search,oracle,6,30,False,1512.6152848626118
+random,Random search,oracle,6,31,False,1512.6152848626118
+random,Random search,oracle,6,32,False,1512.6152848626118
+random,Random search,oracle,6,33,False,1512.6152848626118
+random,Random search,oracle,6,34,False,1512.6152848626118
+random,Random search,oracle,6,35,False,1512.6152848626118
+random,Random search,oracle,6,36,False,1512.6152848626118
+random,Random search,oracle,6,37,False,1336.0303140273427
+random,Random search,oracle,6,38,False,1336.0303140273427
+random,Random search,oracle,6,39,False,1336.0303140273427
+random,Random search,oracle,6,40,False,1336.0303140273427
+random,Random search,oracle,6,41,False,1336.0303140273427
+random,Random search,oracle,6,42,False,1336.0303140273427
+random,Random search,oracle,6,43,False,1336.0303140273427
+random,Random search,oracle,6,44,False,466.2038180881834
+random,Random search,oracle,6,45,False,466.2038180881834
+random,Random search,oracle,6,46,False,466.2038180881834
+random,Random search,oracle,6,47,False,466.2038180881834
+random,Random search,oracle,6,48,False,466.2038180881834
+random,Random search,oracle,6,49,False,466.2038180881834
+random,Random search,oracle,6,50,False,466.2038180881834
+random,Random search,oracle,7,0,False,1843.9023835333583
+random,Random search,oracle,7,1,False,1843.9023835333583
+random,Random search,oracle,7,2,False,1843.9023835333583
+random,Random search,oracle,7,3,False,1843.9023835333583
+random,Random search,oracle,7,4,False,1843.9023835333583
+random,Random search,oracle,7,5,False,1843.9023835333583
+random,Random search,oracle,7,6,False,1843.9023835333583
+random,Random search,oracle,7,7,False,1843.9023835333583
+random,Random search,oracle,7,8,False,1843.9023835333583
+random,Random search,oracle,7,9,False,1843.9023835333583
+random,Random search,oracle,7,10,False,1843.9023835333583
+random,Random search,oracle,7,11,False,1843.9023835333583
+random,Random search,oracle,7,12,False,1843.9023835333583
+random,Random search,oracle,7,13,False,1843.9023835333583
+random,Random search,oracle,7,14,False,1843.9023835333583
+random,Random search,oracle,7,15,False,1843.9023835333583
+random,Random search,oracle,7,16,False,1843.9023835333583
+random,Random search,oracle,7,17,False,1843.9023835333583
+random,Random search,oracle,7,18,False,1843.9023835333583
+random,Random search,oracle,7,19,False,1843.9023835333583
+random,Random search,oracle,7,20,False,1843.9023835333583
+random,Random search,oracle,7,21,False,1843.9023835333583
+random,Random search,oracle,7,22,False,1843.9023835333583
+random,Random search,oracle,7,23,False,1843.9023835333583
+random,Random search,oracle,7,24,False,1843.9023835333583
+random,Random search,oracle,7,25,False,1843.9023835333583
+random,Random search,oracle,7,26,False,1843.9023835333583
+random,Random search,oracle,7,27,False,679.8955802180215
+random,Random search,oracle,7,28,False,679.8955802180215
+random,Random search,oracle,7,29,False,679.8955802180215
+random,Random search,oracle,7,30,False,679.8955802180215
+random,Random search,oracle,7,31,False,679.8955802180215
+random,Random search,oracle,7,32,False,679.8955802180215
+random,Random search,oracle,7,33,False,679.8955802180215
+random,Random search,oracle,7,34,False,679.8955802180215
+random,Random search,oracle,7,35,False,679.8955802180215
+random,Random search,oracle,7,36,False,679.8955802180215
+random,Random search,oracle,7,37,False,679.8955802180215
+random,Random search,oracle,7,38,False,679.8955802180215
+random,Random search,oracle,7,39,False,679.8955802180215
+random,Random search,oracle,7,40,False,679.8955802180215
+random,Random search,oracle,7,41,False,679.8955802180215
+random,Random search,oracle,7,42,False,679.8955802180215
+random,Random search,oracle,7,43,False,679.8955802180215
+random,Random search,oracle,7,44,False,679.8955802180215
+random,Random search,oracle,7,45,False,679.8955802180215
+random,Random search,oracle,7,46,False,679.8955802180215
+random,Random search,oracle,7,47,False,679.8955802180215
+random,Random search,oracle,7,48,False,679.8955802180215
+random,Random search,oracle,7,49,False,679.8955802180215
+random,Random search,oracle,7,50,False,679.8955802180215
+random,Random search,oracle,8,0,False,2943.0304109879667
+random,Random search,oracle,8,1,False,2943.0304109879667
+random,Random search,oracle,8,2,False,2943.0304109879667
+random,Random search,oracle,8,3,False,2943.0304109879667
+random,Random search,oracle,8,4,False,2943.0304109879667
+random,Random search,oracle,8,5,False,2943.0304109879667
+random,Random search,oracle,8,6,False,2943.0304109879667
+random,Random search,oracle,8,7,False,2943.0304109879667
+random,Random search,oracle,8,8,False,2943.0304109879667
+random,Random search,oracle,8,9,False,2943.0304109879667
+random,Random search,oracle,8,10,False,2943.0304109879667
+random,Random search,oracle,8,11,False,2943.0304109879667
+random,Random search,oracle,8,12,False,1655.5023406809185
+random,Random search,oracle,8,13,False,1655.5023406809185
+random,Random search,oracle,8,14,False,1655.5023406809185
+random,Random search,oracle,8,15,False,1655.5023406809185
+random,Random search,oracle,8,16,False,1655.5023406809185
+random,Random search,oracle,8,17,False,1655.5023406809185
+random,Random search,oracle,8,18,False,1655.5023406809185
+random,Random search,oracle,8,19,False,1655.5023406809185
+random,Random search,oracle,8,20,False,1655.5023406809185
+random,Random search,oracle,8,21,False,1655.5023406809185
+random,Random search,oracle,8,22,False,1655.5023406809185
+random,Random search,oracle,8,23,False,1655.5023406809185
+random,Random search,oracle,8,24,False,1470.4155875125916
+random,Random search,oracle,8,25,False,1470.4155875125916
+random,Random search,oracle,8,26,False,1470.4155875125916
+random,Random search,oracle,8,27,False,1470.4155875125916
+random,Random search,oracle,8,28,False,1470.4155875125916
+random,Random search,oracle,8,29,False,1470.4155875125916
+random,Random search,oracle,8,30,False,1470.4155875125916
+random,Random search,oracle,8,31,False,1470.4155875125916
+random,Random search,oracle,8,32,False,1470.4155875125916
+random,Random search,oracle,8,33,False,1470.4155875125916
+random,Random search,oracle,8,34,False,1470.4155875125916
+random,Random search,oracle,8,35,False,1470.4155875125916
+random,Random search,oracle,8,36,False,1470.4155875125916
+random,Random search,oracle,8,37,False,1470.4155875125916
+random,Random search,oracle,8,38,False,1470.4155875125916
+random,Random search,oracle,8,39,False,1470.4155875125916
+random,Random search,oracle,8,40,False,1470.4155875125916
+random,Random search,oracle,8,41,False,1470.4155875125916
+random,Random search,oracle,8,42,False,1470.4155875125916
+random,Random search,oracle,8,43,False,1470.4155875125916
+random,Random search,oracle,8,44,False,1470.4155875125916
+random,Random search,oracle,8,45,False,1470.4155875125916
+random,Random search,oracle,8,46,False,1470.4155875125916
+random,Random search,oracle,8,47,False,1470.4155875125916
+random,Random search,oracle,8,48,False,1470.4155875125916
+random,Random search,oracle,8,49,False,1470.4155875125916
+random,Random search,oracle,8,50,False,1470.4155875125916
+random,Random search,oracle,9,0,False,4095.0877890467746
+random,Random search,oracle,9,1,False,4095.0877890467746
+random,Random search,oracle,9,2,False,4095.0877890467746
+random,Random search,oracle,9,3,False,3167.843430474429
+random,Random search,oracle,9,4,False,1262.1283611423999
+random,Random search,oracle,9,5,False,1262.1283611423999
+random,Random search,oracle,9,6,False,1262.1283611423999
+random,Random search,oracle,9,7,False,1262.1283611423999
+random,Random search,oracle,9,8,False,1262.1283611423999
+random,Random search,oracle,9,9,False,1262.1283611423999
+random,Random search,oracle,9,10,False,1262.1283611423999
+random,Random search,oracle,9,11,False,1262.1283611423999
+random,Random search,oracle,9,12,False,1262.1283611423999
+random,Random search,oracle,9,13,False,1262.1283611423999
+random,Random search,oracle,9,14,False,1262.1283611423999
+random,Random search,oracle,9,15,False,1262.1283611423999
+random,Random search,oracle,9,16,False,1262.1283611423999
+random,Random search,oracle,9,17,False,1262.1283611423999
+random,Random search,oracle,9,18,False,1262.1283611423999
+random,Random search,oracle,9,19,False,1262.1283611423999
+random,Random search,oracle,9,20,False,1262.1283611423999
+random,Random search,oracle,9,21,False,1262.1283611423999
+random,Random search,oracle,9,22,False,1262.1283611423999
+random,Random search,oracle,9,23,False,1262.1283611423999
+random,Random search,oracle,9,24,False,1262.1283611423999
+random,Random search,oracle,9,25,False,1262.1283611423999
+random,Random search,oracle,9,26,False,1262.1283611423999
+random,Random search,oracle,9,27,False,1262.1283611423999
+random,Random search,oracle,9,28,False,1262.1283611423999
+random,Random search,oracle,9,29,False,1262.1283611423999
+random,Random search,oracle,9,30,False,1262.1283611423999
+random,Random search,oracle,9,31,False,1262.1283611423999
+random,Random search,oracle,9,32,False,1262.1283611423999
+random,Random search,oracle,9,33,False,1262.1283611423999
+random,Random search,oracle,9,34,False,1262.1283611423999
+random,Random search,oracle,9,35,False,1262.1283611423999
+random,Random search,oracle,9,36,False,1262.1283611423999
+random,Random search,oracle,9,37,False,1262.1283611423999
+random,Random search,oracle,9,38,False,1262.1283611423999
+random,Random search,oracle,9,39,False,1262.1283611423999
+random,Random search,oracle,9,40,False,1262.1283611423999
+random,Random search,oracle,9,41,False,1262.1283611423999
+random,Random search,oracle,9,42,False,1262.1283611423999
+random,Random search,oracle,9,43,False,1262.1283611423999
+random,Random search,oracle,9,44,False,1262.1283611423999
+random,Random search,oracle,9,45,False,1262.1283611423999
+random,Random search,oracle,9,46,False,1262.1283611423999
+random,Random search,oracle,9,47,False,1262.1283611423999
+random,Random search,oracle,9,48,False,1262.1283611423999
+random,Random search,oracle,9,49,False,1262.1283611423999
+random,Random search,oracle,9,50,False,1262.1283611423999

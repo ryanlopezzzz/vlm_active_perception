@@ -1,0 +1,58 @@
+{
+  "model": "Independent axes with no cross-coupling",
+  "origin_definition": "New motor origin is source motor x=-4000, y=-2000; this is the centered physical position established after the original sweep.",
+  "sample_count": 40,
+  "motor_step_order": [
+    "x_motor_steps",
+    "y_motor_steps"
+  ],
+  "screen_coordinate_order": [
+    "normalized_x",
+    "normalized_y"
+  ],
+  "matrix": [
+    [
+      -0.00023143333333333337,
+      0.0
+    ],
+    [
+      0.0,
+      0.00036802500000000007
+    ]
+  ],
+  "offset": [
+    0.1542166666666667,
+    -0.003074999999999967
+  ],
+  "equations": {
+    "normalized_x": "-0.000231433333333 * motor_x_steps + 0.154216666667",
+    "normalized_y": "0.000368025 * motor_y_steps + -0.003075"
+  },
+  "inverse_model": "motor_x = (normalized_x - x_offset) / x_slope; motor_y = (normalized_y - y_offset) / y_slope",
+  "inverse_matrix": [
+    [
+      -4320.898746939362,
+      -0.0
+    ],
+    [
+      0.0,
+      2717.206711500577
+    ]
+  ],
+  "metrics": {
+    "normalized_x_rmse": 0.0586844456961695,
+    "normalized_y_rmse": 0.05138062013055117,
+    "normalized_x_r_squared": 0.9879010319953153,
+    "normalized_y_r_squared": 0.9903483398193433
+  },
+  "coordinate_rebase": {
+    "origin_in_source_motor_steps": {
+      "x": -4000,
+      "y": -2000
+    },
+    "conversion": {
+      "new_x_steps": "source_x_steps - (-4000)",
+      "new_y_steps": "source_y_steps - (-2000)"
+    }
+  }
+}

@@ -1,0 +1,3690 @@
+{
+  "sampling": {
+    "distribution": "independent discrete uniform, inclusive endpoints",
+    "min_steps": -15000,
+    "max_steps": 15000,
+    "seed": 123,
+    "generator": "Python random.Random(123); draw eight axes in axis_order for each of ten trials without reseeding",
+    "axis_order": [
+      "mirror_1_in_plane_steps",
+      "mirror_1_out_of_plane_steps",
+      "mirror_2_in_plane_steps",
+      "mirror_2_out_of_plane_steps",
+      "mirror_3_in_plane_steps",
+      "mirror_3_out_of_plane_steps",
+      "mirror_4_in_plane_steps",
+      "mirror_4_out_of_plane_steps"
+    ]
+  },
+  "axis_labels": {
+    "vertical": "in_plane",
+    "horizontal": "out_of_plane"
+  },
+  "units": {
+    "camera_xy": "robot placement coordinates in mm",
+    "added_angle": "degrees, placement orientation parameter",
+    "nominal_tilt": "mirror radians, not reflected beam radians"
+  },
+  "trials": [
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 1,
+      "source": "archived_lab/gpt_5_6_sol/trial_01",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -13285,
+          "mirror_1_out_of_plane_steps": -6229,
+          "mirror_2_in_plane_steps": -12144,
+          "mirror_2_out_of_plane_steps": 10197,
+          "mirror_3_in_plane_steps": -1656,
+          "mirror_3_out_of_plane_steps": -6266,
+          "mirror_4_in_plane_steps": -11471,
+          "mirror_4_out_of_plane_steps": 12476
+        },
+        "seed": 123,
+        "trial": 1
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -13285,
+        "mirror_1_out_of_plane_steps": -6229,
+        "mirror_2_in_plane_steps": -12144,
+        "mirror_2_out_of_plane_steps": 10197,
+        "mirror_3_in_plane_steps": -1656,
+        "mirror_3_out_of_plane_steps": -6266,
+        "mirror_4_in_plane_steps": -11471,
+        "mirror_4_out_of_plane_steps": 12476
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.087572021484375,
+        "mirror_1_out_of_plane_steps": -0.041060302734375,
+        "mirror_2_in_plane_steps": -0.08005078125,
+        "mirror_2_out_of_plane_steps": 0.067216552734375,
+        "mirror_3_in_plane_steps": -0.010916015624999999,
+        "mirror_3_out_of_plane_steps": -0.04130419921875,
+        "mirror_4_in_plane_steps": -0.075614501953125,
+        "mirror_4_out_of_plane_steps": 0.0822392578125
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -13285,
+          "requested_hardware_steps": -13285,
+          "executed_submoves": [
+            1,
+            -13286
+          ],
+          "cumulative_executed_steps": 711370,
+          "cumulative_executed_revolutions": 173.67431640625,
+          "logical_position_after": -33484,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -6229,
+          "requested_hardware_steps": -6229,
+          "executed_submoves": [
+            1,
+            -6230
+          ],
+          "cumulative_executed_steps": 825691,
+          "cumulative_executed_revolutions": 201.584716796875,
+          "logical_position_after": -37203,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -12144,
+          "requested_hardware_steps": -12144,
+          "executed_submoves": [
+            1,
+            -12145
+          ],
+          "cumulative_executed_steps": 789349,
+          "cumulative_executed_revolutions": 192.712158203125,
+          "logical_position_after": 80025,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 10197,
+          "requested_hardware_steps": 10197,
+          "executed_submoves": [
+            -1,
+            10198
+          ],
+          "cumulative_executed_steps": 805920,
+          "cumulative_executed_revolutions": 196.7578125,
+          "logical_position_after": -145868,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -1656,
+          "requested_hardware_steps": -1656,
+          "executed_submoves": [
+            1,
+            -1657
+          ],
+          "cumulative_executed_steps": 326804,
+          "cumulative_executed_revolutions": 79.7861328125,
+          "logical_position_after": -10296,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": -6266,
+          "requested_hardware_steps": -6266,
+          "executed_submoves": [
+            1,
+            -6267
+          ],
+          "cumulative_executed_steps": 466198,
+          "cumulative_executed_revolutions": 113.81787109375,
+          "logical_position_after": -67024,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -11471,
+          "requested_hardware_steps": -11471,
+          "executed_submoves": [
+            1,
+            -11472
+          ],
+          "cumulative_executed_steps": 476647,
+          "cumulative_executed_revolutions": 116.368896484375,
+          "logical_position_after": 1617,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 12476,
+          "requested_hardware_steps": 12476,
+          "executed_submoves": [
+            -1,
+            12477
+          ],
+          "cumulative_executed_steps": 504629,
+          "cumulative_executed_revolutions": 123.200439453125,
+          "logical_position_after": -25079,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -20199,
+        "mirror_1_out_of_plane_steps": -30974,
+        "mirror_2_in_plane_steps": 92169,
+        "mirror_2_out_of_plane_steps": -156065,
+        "mirror_3_in_plane_steps": -8640,
+        "mirror_3_out_of_plane_steps": -60758,
+        "mirror_4_in_plane_steps": 13088,
+        "mirror_4_out_of_plane_steps": -37555
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -13285,
+        "mirror_1_out_of_plane_steps": -6229,
+        "mirror_2_in_plane_steps": -12144,
+        "mirror_2_out_of_plane_steps": 10197,
+        "mirror_3_in_plane_steps": -1656,
+        "mirror_3_out_of_plane_steps": -6266,
+        "mirror_4_in_plane_steps": -11471,
+        "mirror_4_out_of_plane_steps": 12476
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_162914_500944\\trial_01\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 2,
+      "source": "archived_lab/gpt_5_6_sol/trial_02",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 14530,
+          "mirror_1_out_of_plane_steps": 13666,
+          "mirror_2_in_plane_steps": -13750,
+          "mirror_2_out_of_plane_steps": -2577,
+          "mirror_3_in_plane_steps": 2570,
+          "mirror_3_out_of_plane_steps": 3426,
+          "mirror_4_in_plane_steps": -4115,
+          "mirror_4_out_of_plane_steps": -3833
+        },
+        "seed": 123,
+        "trial": 2
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 14530,
+        "mirror_1_out_of_plane_steps": 13666,
+        "mirror_2_in_plane_steps": -13750,
+        "mirror_2_out_of_plane_steps": -2577,
+        "mirror_3_in_plane_steps": 2570,
+        "mirror_3_out_of_plane_steps": 3426,
+        "mirror_4_in_plane_steps": -4115,
+        "mirror_4_out_of_plane_steps": -3833
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.09577880859375,
+        "mirror_1_out_of_plane_steps": 0.09008349609374999,
+        "mirror_2_in_plane_steps": -0.09063720703125,
+        "mirror_2_out_of_plane_steps": -0.016987060546875,
+        "mirror_3_in_plane_steps": 0.01694091796875,
+        "mirror_3_out_of_plane_steps": 0.02258349609375,
+        "mirror_4_in_plane_steps": -0.027125244140625,
+        "mirror_4_out_of_plane_steps": -0.025266357421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 14530,
+          "requested_hardware_steps": 14530,
+          "executed_submoves": [
+            -1,
+            14531
+          ],
+          "cumulative_executed_steps": 751814,
+          "cumulative_executed_revolutions": 183.54833984375,
+          "logical_position_after": -5254,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": 13666,
+          "requested_hardware_steps": 13666,
+          "executed_submoves": [
+            -1,
+            13667
+          ],
+          "cumulative_executed_steps": 850369,
+          "cumulative_executed_revolutions": 207.609619140625,
+          "logical_position_after": -15537,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -13750,
+          "requested_hardware_steps": -13750,
+          "executed_submoves": [
+            1,
+            -13751
+          ],
+          "cumulative_executed_steps": 813609,
+          "cumulative_executed_revolutions": 198.635009765625,
+          "logical_position_after": 76775,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -2577,
+          "requested_hardware_steps": -2577,
+          "executed_submoves": [
+            1,
+            -2578
+          ],
+          "cumulative_executed_steps": 851221,
+          "cumulative_executed_revolutions": 207.817626953125,
+          "logical_position_after": -152745,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 2570,
+          "requested_hardware_steps": 2570,
+          "executed_submoves": [
+            -1,
+            2571
+          ],
+          "cumulative_executed_steps": 339084,
+          "cumulative_executed_revolutions": 82.7841796875,
+          "logical_position_after": -3626,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3426,
+          "requested_hardware_steps": 3426,
+          "executed_submoves": [
+            -1,
+            3427
+          ],
+          "cumulative_executed_steps": 490138,
+          "cumulative_executed_revolutions": 119.66259765625,
+          "logical_position_after": -48898,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -4115,
+          "requested_hardware_steps": -4115,
+          "executed_submoves": [
+            1,
+            -4116
+          ],
+          "cumulative_executed_steps": 494376,
+          "cumulative_executed_revolutions": 120.697265625,
+          "logical_position_after": 7102,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -3833,
+          "requested_hardware_steps": -3833,
+          "executed_submoves": [
+            1,
+            -3834
+          ],
+          "cumulative_executed_steps": 524176,
+          "cumulative_executed_revolutions": 127.97265625,
+          "logical_position_after": -38612,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19784,
+        "mirror_1_out_of_plane_steps": -29203,
+        "mirror_2_in_plane_steps": 90525,
+        "mirror_2_out_of_plane_steps": -150168,
+        "mirror_3_in_plane_steps": -6196,
+        "mirror_3_out_of_plane_steps": -52324,
+        "mirror_4_in_plane_steps": 11217,
+        "mirror_4_out_of_plane_steps": -34779
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 14945,
+        "mirror_1_out_of_plane_steps": 15437,
+        "mirror_2_in_plane_steps": -15394,
+        "mirror_2_out_of_plane_steps": 3320,
+        "mirror_3_in_plane_steps": 5014,
+        "mirror_3_out_of_plane_steps": 11860,
+        "mirror_4_in_plane_steps": -5986,
+        "mirror_4_out_of_plane_steps": -1057
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": true,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_162914_500944\\trial_02\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 3,
+      "source": "archived_lab/gpt_5_6_sol/trial_03",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 12921,
+          "mirror_1_out_of_plane_steps": -13300,
+          "mirror_2_in_plane_steps": -9769,
+          "mirror_2_out_of_plane_steps": -10575,
+          "mirror_3_in_plane_steps": -3951,
+          "mirror_3_out_of_plane_steps": 3381,
+          "mirror_4_in_plane_steps": -4063,
+          "mirror_4_out_of_plane_steps": 7992
+        },
+        "seed": 123,
+        "trial": 3
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 12921,
+        "mirror_1_out_of_plane_steps": -13300,
+        "mirror_2_in_plane_steps": -9769,
+        "mirror_2_out_of_plane_steps": -10575,
+        "mirror_3_in_plane_steps": -3951,
+        "mirror_3_out_of_plane_steps": 3381,
+        "mirror_4_in_plane_steps": -4063,
+        "mirror_4_out_of_plane_steps": 7992
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.085172607421875,
+        "mirror_1_out_of_plane_steps": -0.0876708984375,
+        "mirror_2_in_plane_steps": -0.064395263671875,
+        "mirror_2_out_of_plane_steps": -0.069708251953125,
+        "mirror_3_in_plane_steps": -0.026044189453124998,
+        "mirror_3_out_of_plane_steps": 0.022286865234374998,
+        "mirror_4_in_plane_steps": -0.026782470703125,
+        "mirror_4_out_of_plane_steps": 0.052681640625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 12921,
+          "requested_hardware_steps": 12921,
+          "executed_submoves": [
+            -1,
+            12922
+          ],
+          "cumulative_executed_steps": 795265,
+          "cumulative_executed_revolutions": 194.156494140625,
+          "logical_position_after": -6833,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13300,
+          "requested_hardware_steps": -13300,
+          "executed_submoves": [
+            1,
+            -13301
+          ],
+          "cumulative_executed_steps": 905691,
+          "cumulative_executed_revolutions": 221.115966796875,
+          "logical_position_after": -41837,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -9769,
+          "requested_hardware_steps": -9769,
+          "executed_submoves": [
+            1,
+            -9770
+          ],
+          "cumulative_executed_steps": 837392,
+          "cumulative_executed_revolutions": 204.44140625,
+          "logical_position_after": 81006,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -10575,
+          "requested_hardware_steps": -10575,
+          "executed_submoves": [
+            1,
+            -10576
+          ],
+          "cumulative_executed_steps": 878810,
+          "cumulative_executed_revolutions": 214.55322265625,
+          "logical_position_after": -160320,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -3951,
+          "requested_hardware_steps": -3951,
+          "executed_submoves": [
+            1,
+            -3952
+          ],
+          "cumulative_executed_steps": 363553,
+          "cumulative_executed_revolutions": 88.758056640625,
+          "logical_position_after": -11077,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3381,
+          "requested_hardware_steps": 3381,
+          "executed_submoves": [
+            -1,
+            3382
+          ],
+          "cumulative_executed_steps": 518035,
+          "cumulative_executed_revolutions": 126.473388671875,
+          "logical_position_after": -51017,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -4063,
+          "requested_hardware_steps": -4063,
+          "executed_submoves": [
+            1,
+            -4064
+          ],
+          "cumulative_executed_steps": 551467,
+          "cumulative_executed_revolutions": 134.635498046875,
+          "logical_position_after": 8039,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 7992,
+          "requested_hardware_steps": 7992,
+          "executed_submoves": [
+            -1,
+            7993
+          ],
+          "cumulative_executed_steps": 563596,
+          "cumulative_executed_revolutions": 137.5966796875,
+          "logical_position_after": -26020,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19754,
+        "mirror_1_out_of_plane_steps": -28537,
+        "mirror_2_in_plane_steps": 90775,
+        "mirror_2_out_of_plane_steps": -149745,
+        "mirror_3_in_plane_steps": -7126,
+        "mirror_3_out_of_plane_steps": -54398,
+        "mirror_4_in_plane_steps": 12102,
+        "mirror_4_out_of_plane_steps": -34012
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 12921,
+        "mirror_1_out_of_plane_steps": -13300,
+        "mirror_2_in_plane_steps": -9769,
+        "mirror_2_out_of_plane_steps": -10575,
+        "mirror_3_in_plane_steps": -3951,
+        "mirror_3_out_of_plane_steps": 3381,
+        "mirror_4_in_plane_steps": -4063,
+        "mirror_4_out_of_plane_steps": 7992
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_03\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 4,
+      "source": "archived_lab/gpt_5_6_sol/trial_04",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -6967,
+          "mirror_1_out_of_plane_steps": -9634,
+          "mirror_2_in_plane_steps": -14946,
+          "mirror_2_out_of_plane_steps": 14684,
+          "mirror_3_in_plane_steps": -705,
+          "mirror_3_out_of_plane_steps": 10348,
+          "mirror_4_in_plane_steps": -12130,
+          "mirror_4_out_of_plane_steps": 13790
+        },
+        "seed": 123,
+        "trial": 4
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -6967,
+        "mirror_1_out_of_plane_steps": -9634,
+        "mirror_2_in_plane_steps": -14946,
+        "mirror_2_out_of_plane_steps": 14684,
+        "mirror_3_in_plane_steps": -705,
+        "mirror_3_out_of_plane_steps": 10348,
+        "mirror_4_in_plane_steps": -12130,
+        "mirror_4_out_of_plane_steps": 13790
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.045925048828125,
+        "mirror_1_out_of_plane_steps": -0.06350537109375,
+        "mirror_2_in_plane_steps": -0.09852099609375,
+        "mirror_2_out_of_plane_steps": 0.0967939453125,
+        "mirror_3_in_plane_steps": -0.004647216796875,
+        "mirror_3_out_of_plane_steps": 0.0682119140625,
+        "mirror_4_in_plane_steps": -0.07995849609375,
+        "mirror_4_out_of_plane_steps": 0.09090087890625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -6967,
+          "requested_hardware_steps": -6967,
+          "executed_submoves": [
+            1,
+            -6968
+          ],
+          "cumulative_executed_steps": 819242,
+          "cumulative_executed_revolutions": 200.01025390625,
+          "logical_position_after": -26800,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -9634,
+          "requested_hardware_steps": -9634,
+          "executed_submoves": [
+            1,
+            -9635
+          ],
+          "cumulative_executed_steps": 938841,
+          "cumulative_executed_revolutions": 229.209228515625,
+          "logical_position_after": -38971,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -14946,
+          "requested_hardware_steps": -14946,
+          "executed_submoves": [
+            1,
+            -14947
+          ],
+          "cumulative_executed_steps": 862346,
+          "cumulative_executed_revolutions": 210.53369140625,
+          "logical_position_after": 76060,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 14684,
+          "requested_hardware_steps": 14684,
+          "executed_submoves": [
+            -1,
+            14685
+          ],
+          "cumulative_executed_steps": 922010,
+          "cumulative_executed_revolutions": 225.10009765625,
+          "logical_position_after": -140136,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -705,
+          "requested_hardware_steps": -705,
+          "executed_submoves": [
+            1,
+            -706
+          ],
+          "cumulative_executed_steps": 370266,
+          "cumulative_executed_revolutions": 90.39697265625,
+          "logical_position_after": -8782,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 10348,
+          "requested_hardware_steps": 10348,
+          "executed_submoves": [
+            -1,
+            10349
+          ],
+          "cumulative_executed_steps": 561149,
+          "cumulative_executed_revolutions": 136.999267578125,
+          "logical_position_after": -41419,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -12130,
+          "requested_hardware_steps": -12130,
+          "executed_submoves": [
+            1,
+            -12131
+          ],
+          "cumulative_executed_steps": 568805,
+          "cumulative_executed_revolutions": 138.868408203125,
+          "logical_position_after": 1109,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 13790,
+          "requested_hardware_steps": 13790,
+          "executed_submoves": [
+            -1,
+            13791
+          ],
+          "cumulative_executed_steps": 589196,
+          "cumulative_executed_revolutions": 143.8466796875,
+          "logical_position_after": -20030,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19833,
+        "mirror_1_out_of_plane_steps": -29337,
+        "mirror_2_in_plane_steps": 91006,
+        "mirror_2_out_of_plane_steps": -154820,
+        "mirror_3_in_plane_steps": -8077,
+        "mirror_3_out_of_plane_steps": -51767,
+        "mirror_4_in_plane_steps": 13239,
+        "mirror_4_out_of_plane_steps": -33820
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -7046,
+        "mirror_1_out_of_plane_steps": -10434,
+        "mirror_2_in_plane_steps": -14715,
+        "mirror_2_out_of_plane_steps": 9609,
+        "mirror_3_in_plane_steps": -1656,
+        "mirror_3_out_of_plane_steps": 12979,
+        "mirror_4_in_plane_steps": -10993,
+        "mirror_4_out_of_plane_steps": 13982
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_04\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 5,
+      "source": "archived_lab/gpt_5_6_sol/trial_05",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 4582,
+          "mirror_1_out_of_plane_steps": -2627,
+          "mirror_2_in_plane_steps": -12711,
+          "mirror_2_out_of_plane_steps": -14784,
+          "mirror_3_in_plane_steps": -4664,
+          "mirror_3_out_of_plane_steps": 8987,
+          "mirror_4_in_plane_steps": -310,
+          "mirror_4_out_of_plane_steps": -11657
+        },
+        "seed": 123,
+        "trial": 5
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 4582,
+        "mirror_1_out_of_plane_steps": -2627,
+        "mirror_2_in_plane_steps": -12711,
+        "mirror_2_out_of_plane_steps": -14784,
+        "mirror_3_in_plane_steps": -4664,
+        "mirror_3_out_of_plane_steps": 8987,
+        "mirror_4_in_plane_steps": -310,
+        "mirror_4_out_of_plane_steps": -11657
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.03020361328125,
+        "mirror_1_out_of_plane_steps": -0.017316650390625,
+        "mirror_2_in_plane_steps": -0.083788330078125,
+        "mirror_2_out_of_plane_steps": -0.097453125,
+        "mirror_3_in_plane_steps": -0.030744140625,
+        "mirror_3_out_of_plane_steps": 0.059240478515625,
+        "mirror_4_in_plane_steps": -0.00204345703125,
+        "mirror_4_out_of_plane_steps": -0.076840576171875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 4582,
+          "requested_hardware_steps": 4582,
+          "executed_submoves": [
+            -1,
+            4583
+          ],
+          "cumulative_executed_steps": 840838,
+          "cumulative_executed_revolutions": 205.28271484375,
+          "logical_position_after": -15618,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -2627,
+          "requested_hardware_steps": -2627,
+          "executed_submoves": [
+            1,
+            -2628
+          ],
+          "cumulative_executed_steps": 954432,
+          "cumulative_executed_revolutions": 233.015625,
+          "logical_position_after": -31048,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -12711,
+          "requested_hardware_steps": -12711,
+          "executed_submoves": [
+            1,
+            -12712
+          ],
+          "cumulative_executed_steps": 890875,
+          "cumulative_executed_revolutions": 217.498779296875,
+          "logical_position_after": 79149,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -14784,
+          "requested_hardware_steps": -14784,
+          "executed_submoves": [
+            1,
+            -14785
+          ],
+          "cumulative_executed_steps": 1005532,
+          "cumulative_executed_revolutions": 245.4912109375,
+          "logical_position_after": -162220,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -4664,
+          "requested_hardware_steps": -4664,
+          "executed_submoves": [
+            1,
+            -4665
+          ],
+          "cumulative_executed_steps": 379138,
+          "cumulative_executed_revolutions": 92.56298828125,
+          "logical_position_after": -13246,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 8987,
+          "requested_hardware_steps": 8987,
+          "executed_submoves": [
+            -1,
+            8988
+          ],
+          "cumulative_executed_steps": 605956,
+          "cumulative_executed_revolutions": 147.9384765625,
+          "logical_position_after": -40632,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -310,
+          "requested_hardware_steps": -310,
+          "executed_submoves": [
+            1,
+            -311
+          ],
+          "cumulative_executed_steps": 583177,
+          "cumulative_executed_revolutions": 142.377197265625,
+          "logical_position_after": 12749,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -11657,
+          "requested_hardware_steps": -11657,
+          "executed_submoves": [
+            1,
+            -11658
+          ],
+          "cumulative_executed_steps": 620119,
+          "cumulative_executed_revolutions": 151.396240234375,
+          "logical_position_after": -44637,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -20200,
+        "mirror_1_out_of_plane_steps": -28421,
+        "mirror_2_in_plane_steps": 91860,
+        "mirror_2_out_of_plane_steps": -147436,
+        "mirror_3_in_plane_steps": -8582,
+        "mirror_3_out_of_plane_steps": -49619,
+        "mirror_4_in_plane_steps": 13059,
+        "mirror_4_out_of_plane_steps": -32980
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 4136,
+        "mirror_1_out_of_plane_steps": -2511,
+        "mirror_2_in_plane_steps": -11626,
+        "mirror_2_out_of_plane_steps": -12475,
+        "mirror_3_in_plane_steps": -6120,
+        "mirror_3_out_of_plane_steps": 13766,
+        "mirror_4_in_plane_steps": 647,
+        "mirror_4_out_of_plane_steps": -10625
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_05\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 6,
+      "source": "archived_lab/gpt_5_6_sol/trial_06",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 14668,
+          "mirror_1_out_of_plane_steps": -13562,
+          "mirror_2_in_plane_steps": -11961,
+          "mirror_2_out_of_plane_steps": 6860,
+          "mirror_3_in_plane_steps": -10342,
+          "mirror_3_out_of_plane_steps": -10864,
+          "mirror_4_in_plane_steps": 10889,
+          "mirror_4_out_of_plane_steps": 14707
+        },
+        "seed": 123,
+        "trial": 6
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 14668,
+        "mirror_1_out_of_plane_steps": -13562,
+        "mirror_2_in_plane_steps": -11961,
+        "mirror_2_out_of_plane_steps": 6860,
+        "mirror_3_in_plane_steps": -10342,
+        "mirror_3_out_of_plane_steps": -10864,
+        "mirror_4_in_plane_steps": 10889,
+        "mirror_4_out_of_plane_steps": 14707
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.0966884765625,
+        "mirror_1_out_of_plane_steps": -0.08939794921875,
+        "mirror_2_in_plane_steps": -0.078844482421875,
+        "mirror_2_out_of_plane_steps": 0.0452197265625,
+        "mirror_3_in_plane_steps": -0.06817236328125,
+        "mirror_3_out_of_plane_steps": -0.07161328125,
+        "mirror_4_in_plane_steps": 0.071778076171875,
+        "mirror_4_out_of_plane_steps": 0.096945556640625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 14668,
+          "requested_hardware_steps": 14668,
+          "executed_submoves": [
+            -1,
+            14669
+          ],
+          "cumulative_executed_steps": 867014,
+          "cumulative_executed_revolutions": 211.67333984375,
+          "logical_position_after": -5450,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13562,
+          "requested_hardware_steps": -13562,
+          "executed_submoves": [
+            1,
+            -13563
+          ],
+          "cumulative_executed_steps": 969998,
+          "cumulative_executed_revolutions": 236.81591796875,
+          "logical_position_after": -42610,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -11961,
+          "requested_hardware_steps": -11961,
+          "executed_submoves": [
+            1,
+            -11962
+          ],
+          "cumulative_executed_steps": 915496,
+          "cumulative_executed_revolutions": 223.509765625,
+          "logical_position_after": 79838,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 6860,
+          "requested_hardware_steps": 6860,
+          "executed_submoves": [
+            -1,
+            6861
+          ],
+          "cumulative_executed_steps": 1025758,
+          "cumulative_executed_revolutions": 250.42919921875,
+          "logical_position_after": -142010,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -10342,
+          "requested_hardware_steps": -10342,
+          "executed_submoves": [
+            1,
+            -10343
+          ],
+          "cumulative_executed_steps": 397790,
+          "cumulative_executed_revolutions": 97.11669921875,
+          "logical_position_after": -18888,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": -10864,
+          "requested_hardware_steps": -10864,
+          "executed_submoves": [
+            1,
+            -10865
+          ],
+          "cumulative_executed_steps": 655340,
+          "cumulative_executed_revolutions": 159.9951171875,
+          "logical_position_after": -61996,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 10889,
+          "requested_hardware_steps": 10889,
+          "executed_submoves": [
+            -1,
+            10890
+          ],
+          "cumulative_executed_steps": 599874,
+          "cumulative_executed_revolutions": 146.45361328125,
+          "logical_position_after": 23838,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 14707,
+          "requested_hardware_steps": 14707,
+          "executed_submoves": [
+            -1,
+            14708
+          ],
+          "cumulative_executed_steps": 649836,
+          "cumulative_executed_revolutions": 158.6513671875,
+          "logical_position_after": -18930,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -20118,
+        "mirror_1_out_of_plane_steps": -29048,
+        "mirror_2_in_plane_steps": 91799,
+        "mirror_2_out_of_plane_steps": -148870,
+        "mirror_3_in_plane_steps": -8546,
+        "mirror_3_out_of_plane_steps": -51132,
+        "mirror_4_in_plane_steps": 12949,
+        "mirror_4_out_of_plane_steps": -33637
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 14304,
+        "mirror_1_out_of_plane_steps": -14073,
+        "mirror_2_in_plane_steps": -10937,
+        "mirror_2_out_of_plane_steps": 7735,
+        "mirror_3_in_plane_steps": -11762,
+        "mirror_3_out_of_plane_steps": -7598,
+        "mirror_4_in_plane_steps": 11736,
+        "mirror_4_out_of_plane_steps": 15082
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_06\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 7,
+      "source": "archived_lab/gpt_5_6_sol/trial_07",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -14305,
+          "mirror_1_out_of_plane_steps": -5439,
+          "mirror_2_in_plane_steps": 14856,
+          "mirror_2_out_of_plane_steps": -889,
+          "mirror_3_in_plane_steps": 3789,
+          "mirror_3_out_of_plane_steps": 627,
+          "mirror_4_in_plane_steps": -6306,
+          "mirror_4_out_of_plane_steps": 377
+        },
+        "seed": 123,
+        "trial": 7
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -14305,
+        "mirror_1_out_of_plane_steps": -5439,
+        "mirror_2_in_plane_steps": 14856,
+        "mirror_2_out_of_plane_steps": -889,
+        "mirror_3_in_plane_steps": 3789,
+        "mirror_3_out_of_plane_steps": 627,
+        "mirror_4_in_plane_steps": -6306,
+        "mirror_4_out_of_plane_steps": 377
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.094295654296875,
+        "mirror_1_out_of_plane_steps": -0.035852783203125,
+        "mirror_2_in_plane_steps": 0.097927734375,
+        "mirror_2_out_of_plane_steps": -0.005860107421875,
+        "mirror_3_in_plane_steps": 0.024976318359375,
+        "mirror_3_out_of_plane_steps": 0.004133056640625,
+        "mirror_4_in_plane_steps": -0.04156787109375,
+        "mirror_4_out_of_plane_steps": 0.002485107421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -14305,
+          "requested_hardware_steps": -14305,
+          "executed_submoves": [
+            1,
+            -14306
+          ],
+          "cumulative_executed_steps": 911435,
+          "cumulative_executed_revolutions": 222.518310546875,
+          "logical_position_after": -34055,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -5439,
+          "requested_hardware_steps": -5439,
+          "executed_submoves": [
+            1,
+            -5440
+          ],
+          "cumulative_executed_steps": 1011255,
+          "cumulative_executed_revolutions": 246.888427734375,
+          "logical_position_after": -34449,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 14856,
+          "requested_hardware_steps": 14856,
+          "executed_submoves": [
+            -1,
+            14857
+          ],
+          "cumulative_executed_steps": 994574,
+          "cumulative_executed_revolutions": 242.81591796875,
+          "logical_position_after": 105494,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -889,
+          "requested_hardware_steps": -889,
+          "executed_submoves": [
+            1,
+            -890
+          ],
+          "cumulative_executed_steps": 1083269,
+          "cumulative_executed_revolutions": 264.469970703125,
+          "logical_position_after": -149499,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 3789,
+          "requested_hardware_steps": 3789,
+          "executed_submoves": [
+            -1,
+            3790
+          ],
+          "cumulative_executed_steps": 418093,
+          "cumulative_executed_revolutions": 102.073486328125,
+          "logical_position_after": -3599,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 627,
+          "requested_hardware_steps": 627,
+          "executed_submoves": [
+            -1,
+            628
+          ],
+          "cumulative_executed_steps": 672181,
+          "cumulative_executed_revolutions": 164.106689453125,
+          "logical_position_after": -49769,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -6306,
+          "requested_hardware_steps": -6306,
+          "executed_submoves": [
+            1,
+            -6307
+          ],
+          "cumulative_executed_steps": 636098,
+          "cumulative_executed_revolutions": 155.29736328125,
+          "logical_position_after": 6432,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 377,
+          "requested_hardware_steps": 377,
+          "executed_submoves": [
+            -1,
+            378
+          ],
+          "cumulative_executed_steps": 674881,
+          "cumulative_executed_revolutions": 164.765869140625,
+          "logical_position_after": -32103,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19750,
+        "mirror_1_out_of_plane_steps": -29010,
+        "mirror_2_in_plane_steps": 90638,
+        "mirror_2_out_of_plane_steps": -148610,
+        "mirror_3_in_plane_steps": -7388,
+        "mirror_3_out_of_plane_steps": -50396,
+        "mirror_4_in_plane_steps": 12738,
+        "mirror_4_out_of_plane_steps": -32480
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -14301,
+        "mirror_1_out_of_plane_steps": -5912,
+        "mirror_2_in_plane_steps": 14719,
+        "mirror_2_out_of_plane_steps": 246,
+        "mirror_3_in_plane_steps": 3527,
+        "mirror_3_out_of_plane_steps": 4629,
+        "mirror_4_in_plane_steps": -5670,
+        "mirror_4_out_of_plane_steps": 1909
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_07\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 8,
+      "source": "archived_lab/gpt_5_6_sol/trial_08",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 12454,
+          "mirror_1_out_of_plane_steps": -13796,
+          "mirror_2_in_plane_steps": 10191,
+          "mirror_2_out_of_plane_steps": -5003,
+          "mirror_3_in_plane_steps": -3746,
+          "mirror_3_out_of_plane_steps": 2094,
+          "mirror_4_in_plane_steps": 11263,
+          "mirror_4_out_of_plane_steps": 825
+        },
+        "seed": 123,
+        "trial": 8
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 12454,
+        "mirror_1_out_of_plane_steps": -13796,
+        "mirror_2_in_plane_steps": 10191,
+        "mirror_2_out_of_plane_steps": -5003,
+        "mirror_3_in_plane_steps": -3746,
+        "mirror_3_out_of_plane_steps": 2094,
+        "mirror_4_in_plane_steps": 11263,
+        "mirror_4_out_of_plane_steps": 825
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.08209423828125,
+        "mirror_1_out_of_plane_steps": -0.0909404296875,
+        "mirror_2_in_plane_steps": 0.067177001953125,
+        "mirror_2_out_of_plane_steps": -0.032978759765625,
+        "mirror_3_in_plane_steps": -0.02469287109375,
+        "mirror_3_out_of_plane_steps": 0.01380322265625,
+        "mirror_4_in_plane_steps": 0.074243408203125,
+        "mirror_4_out_of_plane_steps": 0.005438232421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 12454,
+          "requested_hardware_steps": 12454,
+          "executed_submoves": [
+            -1,
+            12455
+          ],
+          "cumulative_executed_steps": 972617,
+          "cumulative_executed_revolutions": 237.455322265625,
+          "logical_position_after": -6701,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13796,
+          "requested_hardware_steps": -13796,
+          "executed_submoves": [
+            1,
+            -13797
+          ],
+          "cumulative_executed_steps": 1060375,
+          "cumulative_executed_revolutions": 258.880615234375,
+          "logical_position_after": -42545,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 10191,
+          "requested_hardware_steps": 10191,
+          "executed_submoves": [
+            -1,
+            10192
+          ],
+          "cumulative_executed_steps": 1054783,
+          "cumulative_executed_revolutions": 257.515380859375,
+          "logical_position_after": 99685,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -5003,
+          "requested_hardware_steps": -5003,
+          "executed_submoves": [
+            1,
+            -5004
+          ],
+          "cumulative_executed_steps": 1116290,
+          "cumulative_executed_revolutions": 272.53173828125,
+          "logical_position_after": -152502,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -3746,
+          "requested_hardware_steps": -3746,
+          "executed_submoves": [
+            1,
+            -3747
+          ],
+          "cumulative_executed_steps": 428251,
+          "cumulative_executed_revolutions": 104.553466796875,
+          "logical_position_after": -9745,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 2094,
+          "requested_hardware_steps": 2094,
+          "executed_submoves": [
+            -1,
+            2095
+          ],
+          "cumulative_executed_steps": 690087,
+          "cumulative_executed_revolutions": 168.478271484375,
+          "logical_position_after": -45875,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 11263,
+          "requested_hardware_steps": 11263,
+          "executed_submoves": [
+            -1,
+            11264
+          ],
+          "cumulative_executed_steps": 652571,
+          "cumulative_executed_revolutions": 159.319091796875,
+          "logical_position_after": 22895,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 825,
+          "requested_hardware_steps": 825,
+          "executed_submoves": [
+            -1,
+            826
+          ],
+          "cumulative_executed_steps": 683816,
+          "cumulative_executed_revolutions": 166.947265625,
+          "logical_position_after": -30378,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19155,
+        "mirror_1_out_of_plane_steps": -28749,
+        "mirror_2_in_plane_steps": 89494,
+        "mirror_2_out_of_plane_steps": -147499,
+        "mirror_3_in_plane_steps": -5999,
+        "mirror_3_out_of_plane_steps": -47969,
+        "mirror_4_in_plane_steps": 11632,
+        "mirror_4_out_of_plane_steps": -31203
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 13053,
+        "mirror_1_out_of_plane_steps": -14008,
+        "mirror_2_in_plane_steps": 8910,
+        "mirror_2_out_of_plane_steps": -2757,
+        "mirror_3_in_plane_steps": -2619,
+        "mirror_3_out_of_plane_steps": 8523,
+        "mirror_4_in_plane_steps": 10793,
+        "mirror_4_out_of_plane_steps": 3634
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_08\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 9,
+      "source": "archived_lab/gpt_5_6_sol/trial_09",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -8222,
+          "mirror_1_out_of_plane_steps": 11911,
+          "mirror_2_in_plane_steps": 4952,
+          "mirror_2_out_of_plane_steps": 5930,
+          "mirror_3_in_plane_steps": 2271,
+          "mirror_3_out_of_plane_steps": 3507,
+          "mirror_4_in_plane_steps": 11520,
+          "mirror_4_out_of_plane_steps": -4670
+        },
+        "seed": 123,
+        "trial": 9
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -8222,
+        "mirror_1_out_of_plane_steps": 11911,
+        "mirror_2_in_plane_steps": 4952,
+        "mirror_2_out_of_plane_steps": 5930,
+        "mirror_3_in_plane_steps": 2271,
+        "mirror_3_out_of_plane_steps": 3507,
+        "mirror_4_in_plane_steps": 11520,
+        "mirror_4_out_of_plane_steps": -4670
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.05419775390625,
+        "mirror_1_out_of_plane_steps": 0.078514892578125,
+        "mirror_2_in_plane_steps": 0.032642578125,
+        "mirror_2_out_of_plane_steps": 0.039089355468749996,
+        "mirror_3_in_plane_steps": 0.014969970703125,
+        "mirror_3_out_of_plane_steps": 0.023117431640625,
+        "mirror_4_in_plane_steps": 0.0759375,
+        "mirror_4_out_of_plane_steps": -0.03078369140625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -8222,
+          "requested_hardware_steps": -8222,
+          "executed_submoves": [
+            1,
+            -8223
+          ],
+          "cumulative_executed_steps": 998051,
+          "cumulative_executed_revolutions": 243.664794921875,
+          "logical_position_after": -28123,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": 11911,
+          "requested_hardware_steps": 11911,
+          "executed_submoves": [
+            -1,
+            11912
+          ],
+          "cumulative_executed_steps": 1088746,
+          "cumulative_executed_revolutions": 265.80712890625,
+          "logical_position_after": -17084,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 4952,
+          "requested_hardware_steps": 4952,
+          "executed_submoves": [
+            -1,
+            4953
+          ],
+          "cumulative_executed_steps": 1077547,
+          "cumulative_executed_revolutions": 263.072998046875,
+          "logical_position_after": 96037,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 5930,
+          "requested_hardware_steps": 5930,
+          "executed_submoves": [
+            -1,
+            5931
+          ],
+          "cumulative_executed_steps": 1149088,
+          "cumulative_executed_revolutions": 280.5390625,
+          "logical_position_after": -142522,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 2271,
+          "requested_hardware_steps": 2271,
+          "executed_submoves": [
+            -1,
+            2272
+          ],
+          "cumulative_executed_steps": 439084,
+          "cumulative_executed_revolutions": 107.1982421875,
+          "logical_position_after": -5324,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3507,
+          "requested_hardware_steps": 3507,
+          "executed_submoves": [
+            -1,
+            3508
+          ],
+          "cumulative_executed_steps": 724710,
+          "cumulative_executed_revolutions": 176.93115234375,
+          "logical_position_after": -46468,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 11520,
+          "requested_hardware_steps": 11520,
+          "executed_submoves": [
+            -1,
+            11521
+          ],
+          "cumulative_executed_steps": 683705,
+          "cumulative_executed_revolutions": 166.920166015625,
+          "logical_position_after": 23815,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -4670,
+          "requested_hardware_steps": -4670,
+          "executed_submoves": [
+            1,
+            -4671
+          ],
+          "cumulative_executed_steps": 694494,
+          "cumulative_executed_revolutions": 169.55419921875,
+          "logical_position_after": -37048,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19901,
+        "mirror_1_out_of_plane_steps": -28995,
+        "mirror_2_in_plane_steps": 91085,
+        "mirror_2_out_of_plane_steps": -148452,
+        "mirror_3_in_plane_steps": -7595,
+        "mirror_3_out_of_plane_steps": -49975,
+        "mirror_4_in_plane_steps": 12295,
+        "mirror_4_out_of_plane_steps": -32378
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -8369,
+        "mirror_1_out_of_plane_steps": 11453,
+        "mirror_2_in_plane_steps": 5262,
+        "mirror_2_out_of_plane_steps": 7223,
+        "mirror_3_in_plane_steps": 1802,
+        "mirror_3_out_of_plane_steps": 7930,
+        "mirror_4_in_plane_steps": 11713,
+        "mirror_4_out_of_plane_steps": -3036
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_09\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "openai/gpt-5.6-sol",
+      "trial": 10,
+      "source": "archived_lab/gpt_5_6_sol/trial_10",
+      "config_file": "configs/4600bf296912.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -14589,
+          "mirror_1_out_of_plane_steps": -1951,
+          "mirror_2_in_plane_steps": 14259,
+          "mirror_2_out_of_plane_steps": 10207,
+          "mirror_3_in_plane_steps": 6173,
+          "mirror_3_out_of_plane_steps": 1801,
+          "mirror_4_in_plane_steps": -767,
+          "mirror_4_out_of_plane_steps": 7440
+        },
+        "seed": 123,
+        "trial": 10
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -14589,
+        "mirror_1_out_of_plane_steps": -1951,
+        "mirror_2_in_plane_steps": 14259,
+        "mirror_2_out_of_plane_steps": 10207,
+        "mirror_3_in_plane_steps": 6173,
+        "mirror_3_out_of_plane_steps": 1801,
+        "mirror_4_in_plane_steps": -767,
+        "mirror_4_out_of_plane_steps": 7440
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.096167724609375,
+        "mirror_1_out_of_plane_steps": -0.012860595703125,
+        "mirror_2_in_plane_steps": 0.093992431640625,
+        "mirror_2_out_of_plane_steps": 0.067282470703125,
+        "mirror_3_in_plane_steps": 0.040691162109375,
+        "mirror_3_out_of_plane_steps": 0.011871826171875,
+        "mirror_4_in_plane_steps": -0.005055908203125,
+        "mirror_4_out_of_plane_steps": 0.04904296875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -14589,
+          "requested_hardware_steps": -14589,
+          "executed_submoves": [
+            1,
+            -14590
+          ],
+          "cumulative_executed_steps": 1038052,
+          "cumulative_executed_revolutions": 253.4306640625,
+          "logical_position_after": -34112,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -1951,
+          "requested_hardware_steps": -1951,
+          "executed_submoves": [
+            1,
+            -1952
+          ],
+          "cumulative_executed_steps": 1146019,
+          "cumulative_executed_revolutions": 279.789794921875,
+          "logical_position_after": -31335,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 14259,
+          "requested_hardware_steps": 14259,
+          "executed_submoves": [
+            -1,
+            14260
+          ],
+          "cumulative_executed_steps": 1125722,
+          "cumulative_executed_revolutions": 274.83447265625,
+          "logical_position_after": 104596,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 10207,
+          "requested_hardware_steps": 10207,
+          "executed_submoves": [
+            -1,
+            10208
+          ],
+          "cumulative_executed_steps": 1212727,
+          "cumulative_executed_revolutions": 296.075927734375,
+          "logical_position_after": -132515,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 6173,
+          "requested_hardware_steps": 6173,
+          "executed_submoves": [
+            -1,
+            6174
+          ],
+          "cumulative_executed_steps": 455267,
+          "cumulative_executed_revolutions": 111.149169921875,
+          "logical_position_after": -1151,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 1801,
+          "requested_hardware_steps": 1801,
+          "executed_submoves": [
+            -1,
+            1802
+          ],
+          "cumulative_executed_steps": 761233,
+          "cumulative_executed_revolutions": 185.847900390625,
+          "logical_position_after": -47367,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -767,
+          "requested_hardware_steps": -767,
+          "executed_submoves": [
+            1,
+            -768
+          ],
+          "cumulative_executed_steps": 703082,
+          "cumulative_executed_revolutions": 171.65087890625,
+          "logical_position_after": 11648,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 7440,
+          "requested_hardware_steps": 7440,
+          "executed_submoves": [
+            -1,
+            7441
+          ],
+          "cumulative_executed_steps": 714346,
+          "cumulative_executed_revolutions": 174.40087890625,
+          "logical_position_after": -24208,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19523,
+        "mirror_1_out_of_plane_steps": -29384,
+        "mirror_2_in_plane_steps": 90337,
+        "mirror_2_out_of_plane_steps": -142722,
+        "mirror_3_in_plane_steps": -7324,
+        "mirror_3_out_of_plane_steps": -49168,
+        "mirror_4_in_plane_steps": 12415,
+        "mirror_4_out_of_plane_steps": -31648
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -14358,
+        "mirror_1_out_of_plane_steps": -2798,
+        "mirror_2_in_plane_steps": 13821,
+        "mirror_2_out_of_plane_steps": 17230,
+        "mirror_3_in_plane_steps": 5975,
+        "mirror_3_out_of_plane_steps": 7031,
+        "mirror_4_in_plane_steps": -454,
+        "mirror_4_out_of_plane_steps": 9804
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_175233_574622\\trial_10\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 1,
+      "source": "archived_lab/gemini_3_5_flash/trial_01",
+      "config_file": "configs/54002ef2c26d.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -13285,
+          "mirror_1_out_of_plane_steps": -6229,
+          "mirror_2_in_plane_steps": -12144,
+          "mirror_2_out_of_plane_steps": 10197,
+          "mirror_3_in_plane_steps": -1656,
+          "mirror_3_out_of_plane_steps": -6266,
+          "mirror_4_in_plane_steps": -11471,
+          "mirror_4_out_of_plane_steps": 12476
+        },
+        "seed": null,
+        "trial": 1
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -13285,
+        "mirror_1_out_of_plane_steps": -6229,
+        "mirror_2_in_plane_steps": -12144,
+        "mirror_2_out_of_plane_steps": 10197,
+        "mirror_3_in_plane_steps": -1656,
+        "mirror_3_out_of_plane_steps": -6266,
+        "mirror_4_in_plane_steps": -11471,
+        "mirror_4_out_of_plane_steps": 12476
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.087572021484375,
+        "mirror_1_out_of_plane_steps": -0.041060302734375,
+        "mirror_2_in_plane_steps": -0.08005078125,
+        "mirror_2_out_of_plane_steps": 0.067216552734375,
+        "mirror_3_in_plane_steps": -0.010916015624999999,
+        "mirror_3_out_of_plane_steps": -0.04130419921875,
+        "mirror_4_in_plane_steps": -0.075614501953125,
+        "mirror_4_out_of_plane_steps": 0.0822392578125
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -13285,
+          "requested_hardware_steps": -13285,
+          "executed_submoves": [
+            1,
+            -13286
+          ],
+          "cumulative_executed_steps": 1096450,
+          "cumulative_executed_revolutions": 267.68798828125,
+          "logical_position_after": -32882,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -6229,
+          "requested_hardware_steps": -6229,
+          "executed_submoves": [
+            1,
+            -6230
+          ],
+          "cumulative_executed_steps": 1181603,
+          "cumulative_executed_revolutions": 288.477294921875,
+          "logical_position_after": -36693,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -12144,
+          "requested_hardware_steps": -12144,
+          "executed_submoves": [
+            1,
+            -12145
+          ],
+          "cumulative_executed_steps": 1220342,
+          "cumulative_executed_revolutions": 297.93505859375,
+          "logical_position_after": 78608,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 10197,
+          "requested_hardware_steps": 10197,
+          "executed_submoves": [
+            -1,
+            10198
+          ],
+          "cumulative_executed_steps": 1320457,
+          "cumulative_executed_revolutions": 322.377197265625,
+          "logical_position_after": -137221,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -1656,
+          "requested_hardware_steps": -1656,
+          "executed_submoves": [
+            1,
+            -1657
+          ],
+          "cumulative_executed_steps": 483003,
+          "cumulative_executed_revolutions": 117.920654296875,
+          "logical_position_after": -8863,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": -6266,
+          "requested_hardware_steps": -6266,
+          "executed_submoves": [
+            1,
+            -6267
+          ],
+          "cumulative_executed_steps": 843521,
+          "cumulative_executed_revolutions": 205.937744140625,
+          "logical_position_after": -64799,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -11471,
+          "requested_hardware_steps": -11471,
+          "executed_submoves": [
+            1,
+            -11472
+          ],
+          "cumulative_executed_steps": 746844,
+          "cumulative_executed_revolutions": 182.3349609375,
+          "logical_position_after": -94,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 12476,
+          "requested_hardware_steps": 12476,
+          "executed_submoves": [
+            -1,
+            12477
+          ],
+          "cumulative_executed_steps": 835738,
+          "cumulative_executed_revolutions": 204.03759765625,
+          "logical_position_after": -4856,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19597,
+        "mirror_1_out_of_plane_steps": -30464,
+        "mirror_2_in_plane_steps": 90752,
+        "mirror_2_out_of_plane_steps": -147418,
+        "mirror_3_in_plane_steps": -7207,
+        "mirror_3_out_of_plane_steps": -58533,
+        "mirror_4_in_plane_steps": 11377,
+        "mirror_4_out_of_plane_steps": -17332
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -13285,
+        "mirror_1_out_of_plane_steps": -6229,
+        "mirror_2_in_plane_steps": -12144,
+        "mirror_2_out_of_plane_steps": 10197,
+        "mirror_3_in_plane_steps": -1656,
+        "mirror_3_out_of_plane_steps": -6266,
+        "mirror_4_in_plane_steps": -11471,
+        "mirror_4_out_of_plane_steps": 12476
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_221830_749161\\trial_01\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 2,
+      "source": "archived_lab/gemini_3_5_flash/trial_02",
+      "config_file": "configs/54002ef2c26d.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 14530,
+          "mirror_1_out_of_plane_steps": 13666,
+          "mirror_2_in_plane_steps": -13750,
+          "mirror_2_out_of_plane_steps": -2577,
+          "mirror_3_in_plane_steps": 2570,
+          "mirror_3_out_of_plane_steps": 3426,
+          "mirror_4_in_plane_steps": -4115,
+          "mirror_4_out_of_plane_steps": -3833
+        },
+        "seed": null,
+        "trial": 2
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 14530,
+        "mirror_1_out_of_plane_steps": 13666,
+        "mirror_2_in_plane_steps": -13750,
+        "mirror_2_out_of_plane_steps": -2577,
+        "mirror_3_in_plane_steps": 2570,
+        "mirror_3_out_of_plane_steps": 3426,
+        "mirror_4_in_plane_steps": -4115,
+        "mirror_4_out_of_plane_steps": -3833
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.09577880859375,
+        "mirror_1_out_of_plane_steps": 0.09008349609374999,
+        "mirror_2_in_plane_steps": -0.09063720703125,
+        "mirror_2_out_of_plane_steps": -0.016987060546875,
+        "mirror_3_in_plane_steps": 0.01694091796875,
+        "mirror_3_out_of_plane_steps": 0.02258349609375,
+        "mirror_4_in_plane_steps": -0.027125244140625,
+        "mirror_4_out_of_plane_steps": -0.025266357421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 14530,
+          "requested_hardware_steps": 14530,
+          "executed_submoves": [
+            -1,
+            14531
+          ],
+          "cumulative_executed_steps": 1122988,
+          "cumulative_executed_revolutions": 274.1669921875,
+          "logical_position_after": -6352,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": 13666,
+          "requested_hardware_steps": 13666,
+          "executed_submoves": [
+            -1,
+            13667
+          ],
+          "cumulative_executed_steps": 1207279,
+          "cumulative_executed_revolutions": 294.745849609375,
+          "logical_position_after": -15027,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -13750,
+          "requested_hardware_steps": -13750,
+          "executed_submoves": [
+            1,
+            -13751
+          ],
+          "cumulative_executed_steps": 1250102,
+          "cumulative_executed_revolutions": 305.20068359375,
+          "logical_position_after": 80858,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -2577,
+          "requested_hardware_steps": -2577,
+          "executed_submoves": [
+            1,
+            -2578
+          ],
+          "cumulative_executed_steps": 1371054,
+          "cumulative_executed_revolutions": 334.72998046875,
+          "logical_position_after": -143798,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 2570,
+          "requested_hardware_steps": 2570,
+          "executed_submoves": [
+            -1,
+            2571
+          ],
+          "cumulative_executed_steps": 495581,
+          "cumulative_executed_revolutions": 120.991455078125,
+          "logical_position_after": -12293,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3426,
+          "requested_hardware_steps": 3426,
+          "executed_submoves": [
+            -1,
+            3427
+          ],
+          "cumulative_executed_steps": 883963,
+          "cumulative_executed_revolutions": 215.811279296875,
+          "logical_position_after": -46373,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -4115,
+          "requested_hardware_steps": -4115,
+          "executed_submoves": [
+            1,
+            -4116
+          ],
+          "cumulative_executed_steps": 778473,
+          "cumulative_executed_revolutions": 190.056884765625,
+          "logical_position_after": 15291,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -3833,
+          "requested_hardware_steps": -3833,
+          "executed_submoves": [
+            1,
+            -3834
+          ],
+          "cumulative_executed_steps": 873585,
+          "cumulative_executed_revolutions": 213.277587890625,
+          "logical_position_after": -18689,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -20882,
+        "mirror_1_out_of_plane_steps": -28693,
+        "mirror_2_in_plane_steps": 94608,
+        "mirror_2_out_of_plane_steps": -141221,
+        "mirror_3_in_plane_steps": -14863,
+        "mirror_3_out_of_plane_steps": -49799,
+        "mirror_4_in_plane_steps": 19406,
+        "mirror_4_out_of_plane_steps": -14856
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 13245,
+        "mirror_1_out_of_plane_steps": 15437,
+        "mirror_2_in_plane_steps": -9894,
+        "mirror_2_out_of_plane_steps": 3620,
+        "mirror_3_in_plane_steps": -5086,
+        "mirror_3_out_of_plane_steps": 12160,
+        "mirror_4_in_plane_steps": 3914,
+        "mirror_4_out_of_plane_steps": -1357
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_221830_749161\\trial_02\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 3,
+      "source": "archived_lab/gemini_3_5_flash/trial_03",
+      "config_file": "configs/54002ef2c26d.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 12921,
+          "mirror_1_out_of_plane_steps": -13300,
+          "mirror_2_in_plane_steps": -9769,
+          "mirror_2_out_of_plane_steps": -10575,
+          "mirror_3_in_plane_steps": -3951,
+          "mirror_3_out_of_plane_steps": 3381,
+          "mirror_4_in_plane_steps": -4063,
+          "mirror_4_out_of_plane_steps": 7992
+        },
+        "seed": null,
+        "trial": 3
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 12921,
+        "mirror_1_out_of_plane_steps": -13300,
+        "mirror_2_in_plane_steps": -9769,
+        "mirror_2_out_of_plane_steps": -10575,
+        "mirror_3_in_plane_steps": -3951,
+        "mirror_3_out_of_plane_steps": 3381,
+        "mirror_4_in_plane_steps": -4063,
+        "mirror_4_out_of_plane_steps": 7992
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.085172607421875,
+        "mirror_1_out_of_plane_steps": -0.0876708984375,
+        "mirror_2_in_plane_steps": -0.064395263671875,
+        "mirror_2_out_of_plane_steps": -0.069708251953125,
+        "mirror_3_in_plane_steps": -0.026044189453124998,
+        "mirror_3_out_of_plane_steps": 0.022286865234374998,
+        "mirror_4_in_plane_steps": -0.026782470703125,
+        "mirror_4_out_of_plane_steps": 0.052681640625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 12921,
+          "requested_hardware_steps": 12921,
+          "executed_submoves": [
+            -1,
+            12922
+          ],
+          "cumulative_executed_steps": 1154919,
+          "cumulative_executed_revolutions": 281.962646484375,
+          "logical_position_after": -6431,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13300,
+          "requested_hardware_steps": -13300,
+          "executed_submoves": [
+            1,
+            -13301
+          ],
+          "cumulative_executed_steps": 1258597,
+          "cumulative_executed_revolutions": 307.274658203125,
+          "logical_position_after": -42327,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -9769,
+          "requested_hardware_steps": -9769,
+          "executed_submoves": [
+            1,
+            -9770
+          ],
+          "cumulative_executed_steps": 1285889,
+          "cumulative_executed_revolutions": 313.937744140625,
+          "logical_position_after": 79089,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -10575,
+          "requested_hardware_steps": -10575,
+          "executed_submoves": [
+            1,
+            -10576
+          ],
+          "cumulative_executed_steps": 1412647,
+          "cumulative_executed_revolutions": 344.884521484375,
+          "logical_position_after": -153373,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -3951,
+          "requested_hardware_steps": -3951,
+          "executed_submoves": [
+            1,
+            -3952
+          ],
+          "cumulative_executed_steps": 507538,
+          "cumulative_executed_revolutions": 123.91064453125,
+          "logical_position_after": -8244,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3381,
+          "requested_hardware_steps": 3381,
+          "executed_submoves": [
+            -1,
+            3382
+          ],
+          "cumulative_executed_steps": 918360,
+          "cumulative_executed_revolutions": 224.208984375,
+          "logical_position_after": -47992,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -4063,
+          "requested_hardware_steps": -4063,
+          "executed_submoves": [
+            1,
+            -4064
+          ],
+          "cumulative_executed_steps": 790542,
+          "cumulative_executed_revolutions": 193.00341796875,
+          "logical_position_after": 7228,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 7992,
+          "requested_hardware_steps": 7992,
+          "executed_submoves": [
+            -1,
+            7993
+          ],
+          "cumulative_executed_steps": 891585,
+          "cumulative_executed_revolutions": 217.672119140625,
+          "logical_position_after": -8697,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19352,
+        "mirror_1_out_of_plane_steps": -29027,
+        "mirror_2_in_plane_steps": 88858,
+        "mirror_2_out_of_plane_steps": -142798,
+        "mirror_3_in_plane_steps": -4293,
+        "mirror_3_out_of_plane_steps": -51373,
+        "mirror_4_in_plane_steps": 11291,
+        "mirror_4_out_of_plane_steps": -16689
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 13166,
+        "mirror_1_out_of_plane_steps": -11863,
+        "mirror_2_in_plane_steps": -11663,
+        "mirror_2_out_of_plane_steps": -5955,
+        "mirror_3_in_plane_steps": -1037,
+        "mirror_3_out_of_plane_steps": 10541,
+        "mirror_4_in_plane_steps": -4149,
+        "mirror_4_out_of_plane_steps": 8635
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_221830_749161\\trial_03\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 4,
+      "source": "archived_lab/gemini_3_5_flash/trial_04",
+      "config_file": "configs/54002ef2c26d.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -6967,
+          "mirror_1_out_of_plane_steps": -9634,
+          "mirror_2_in_plane_steps": -14946,
+          "mirror_2_out_of_plane_steps": 14684,
+          "mirror_3_in_plane_steps": -705,
+          "mirror_3_out_of_plane_steps": 10348,
+          "mirror_4_in_plane_steps": -12130,
+          "mirror_4_out_of_plane_steps": 13790
+        },
+        "seed": null,
+        "trial": 4
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -6967,
+        "mirror_1_out_of_plane_steps": -9634,
+        "mirror_2_in_plane_steps": -14946,
+        "mirror_2_out_of_plane_steps": 14684,
+        "mirror_3_in_plane_steps": -705,
+        "mirror_3_out_of_plane_steps": 10348,
+        "mirror_4_in_plane_steps": -12130,
+        "mirror_4_out_of_plane_steps": 13790
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.045925048828125,
+        "mirror_1_out_of_plane_steps": -0.06350537109375,
+        "mirror_2_in_plane_steps": -0.09852099609375,
+        "mirror_2_out_of_plane_steps": 0.0967939453125,
+        "mirror_3_in_plane_steps": -0.004647216796875,
+        "mirror_3_out_of_plane_steps": 0.0682119140625,
+        "mirror_4_in_plane_steps": -0.07995849609375,
+        "mirror_4_out_of_plane_steps": 0.09090087890625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -6967,
+          "requested_hardware_steps": -6967,
+          "executed_submoves": [
+            1,
+            -6968
+          ],
+          "cumulative_executed_steps": 1208902,
+          "cumulative_executed_revolutions": 295.14208984375,
+          "logical_position_after": -28398,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -9634,
+          "requested_hardware_steps": -9634,
+          "executed_submoves": [
+            1,
+            -9635
+          ],
+          "cumulative_executed_steps": 1306253,
+          "cumulative_executed_revolutions": 318.909423828125,
+          "logical_position_after": -37961,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -14946,
+          "requested_hardware_steps": -14946,
+          "executed_submoves": [
+            1,
+            -14947
+          ],
+          "cumulative_executed_steps": 1313845,
+          "cumulative_executed_revolutions": 320.762939453125,
+          "logical_position_after": 77143,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 14684,
+          "requested_hardware_steps": 14684,
+          "executed_submoves": [
+            -1,
+            14685
+          ],
+          "cumulative_executed_steps": 1447341,
+          "cumulative_executed_revolutions": 353.354736328125,
+          "logical_position_after": -126689,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -705,
+          "requested_hardware_steps": -705,
+          "executed_submoves": [
+            1,
+            -706
+          ],
+          "cumulative_executed_steps": 512247,
+          "cumulative_executed_revolutions": 125.060302734375,
+          "logical_position_after": -4949,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 10348,
+          "requested_hardware_steps": 10348,
+          "executed_submoves": [
+            -1,
+            10349
+          ],
+          "cumulative_executed_steps": 954720,
+          "cumulative_executed_revolutions": 233.0859375,
+          "logical_position_after": -39644,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -12130,
+          "requested_hardware_steps": -12130,
+          "executed_submoves": [
+            1,
+            -12131
+          ],
+          "cumulative_executed_steps": 802674,
+          "cumulative_executed_revolutions": 195.96533203125,
+          "logical_position_after": -4902,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 13790,
+          "requested_hardware_steps": 13790,
+          "executed_submoves": [
+            -1,
+            13791
+          ],
+          "cumulative_executed_steps": 919385,
+          "cumulative_executed_revolutions": 224.459228515625,
+          "logical_position_after": -907,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -21431,
+        "mirror_1_out_of_plane_steps": -28327,
+        "mirror_2_in_plane_steps": 92089,
+        "mirror_2_out_of_plane_steps": -141373,
+        "mirror_3_in_plane_steps": -4244,
+        "mirror_3_out_of_plane_steps": -49992,
+        "mirror_4_in_plane_steps": 7228,
+        "mirror_4_out_of_plane_steps": -14697
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -8801,
+        "mirror_1_out_of_plane_steps": -7497,
+        "mirror_2_in_plane_steps": -13609,
+        "mirror_2_out_of_plane_steps": 20729,
+        "mirror_3_in_plane_steps": 2258,
+        "mirror_3_out_of_plane_steps": 18889,
+        "mirror_4_in_plane_steps": -16279,
+        "mirror_4_out_of_plane_steps": 16425
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_221830_749161\\trial_04\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 5,
+      "source": "archived_lab/gemini_3_5_flash/trial_05",
+      "config_file": "configs/54002ef2c26d.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 4582,
+          "mirror_1_out_of_plane_steps": -2627,
+          "mirror_2_in_plane_steps": -12711,
+          "mirror_2_out_of_plane_steps": -14784,
+          "mirror_3_in_plane_steps": -4664,
+          "mirror_3_out_of_plane_steps": 8987,
+          "mirror_4_in_plane_steps": -310,
+          "mirror_4_out_of_plane_steps": -11657
+        },
+        "seed": null,
+        "trial": 5
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 4582,
+        "mirror_1_out_of_plane_steps": -2627,
+        "mirror_2_in_plane_steps": -12711,
+        "mirror_2_out_of_plane_steps": -14784,
+        "mirror_3_in_plane_steps": -4664,
+        "mirror_3_out_of_plane_steps": 8987,
+        "mirror_4_in_plane_steps": -310,
+        "mirror_4_out_of_plane_steps": -11657
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.03020361328125,
+        "mirror_1_out_of_plane_steps": -0.017316650390625,
+        "mirror_2_in_plane_steps": -0.083788330078125,
+        "mirror_2_out_of_plane_steps": -0.097453125,
+        "mirror_3_in_plane_steps": -0.030744140625,
+        "mirror_3_out_of_plane_steps": 0.059240478515625,
+        "mirror_4_in_plane_steps": -0.00204345703125,
+        "mirror_4_out_of_plane_steps": -0.076840576171875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 4582,
+          "requested_hardware_steps": 4582,
+          "executed_submoves": [
+            -1,
+            4583
+          ],
+          "cumulative_executed_steps": 1226496,
+          "cumulative_executed_revolutions": 299.4375,
+          "logical_position_after": -16816,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -2627,
+          "requested_hardware_steps": -2627,
+          "executed_submoves": [
+            1,
+            -2628
+          ],
+          "cumulative_executed_steps": 1318890,
+          "cumulative_executed_revolutions": 321.99462890625,
+          "logical_position_after": -30588,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -12711,
+          "requested_hardware_steps": -12711,
+          "executed_submoves": [
+            1,
+            -12712
+          ],
+          "cumulative_executed_steps": 1352572,
+          "cumulative_executed_revolutions": 330.2177734375,
+          "logical_position_after": 82432,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -14784,
+          "requested_hardware_steps": -14784,
+          "executed_submoves": [
+            1,
+            -14785
+          ],
+          "cumulative_executed_steps": 1498143,
+          "cumulative_executed_revolutions": 365.757568359375,
+          "logical_position_after": -153473,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -4664,
+          "requested_hardware_steps": -4664,
+          "executed_submoves": [
+            1,
+            -4665
+          ],
+          "cumulative_executed_steps": 528919,
+          "cumulative_executed_revolutions": 129.130615234375,
+          "logical_position_after": -17613,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 8987,
+          "requested_hardware_steps": 8987,
+          "executed_submoves": [
+            -1,
+            8988
+          ],
+          "cumulative_executed_steps": 981719,
+          "cumulative_executed_revolutions": 239.677490234375,
+          "logical_position_after": -36657,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -310,
+          "requested_hardware_steps": -310,
+          "executed_submoves": [
+            1,
+            -311
+          ],
+          "cumulative_executed_steps": 825000,
+          "cumulative_executed_revolutions": 201.416015625,
+          "logical_position_after": 14788,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -11657,
+          "requested_hardware_steps": -11657,
+          "executed_submoves": [
+            1,
+            -11658
+          ],
+          "cumulative_executed_steps": 957560,
+          "cumulative_executed_revolutions": 233.779296875,
+          "logical_position_after": -24064,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -21398,
+        "mirror_1_out_of_plane_steps": -27961,
+        "mirror_2_in_plane_steps": 95143,
+        "mirror_2_out_of_plane_steps": -138689,
+        "mirror_3_in_plane_steps": -12949,
+        "mirror_3_out_of_plane_steps": -45644,
+        "mirror_4_in_plane_steps": 15098,
+        "mirror_4_out_of_plane_steps": -12407
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 2781,
+        "mirror_1_out_of_plane_steps": -124,
+        "mirror_2_in_plane_steps": -8320,
+        "mirror_2_out_of_plane_steps": -6055,
+        "mirror_3_in_plane_steps": -10406,
+        "mirror_3_out_of_plane_steps": 21876,
+        "mirror_4_in_plane_steps": 3411,
+        "mirror_4_out_of_plane_steps": -6732
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260921_221830_749161\\trial_05\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 6,
+      "source": "archived_lab/gemini_3_5_flash/trial_06",
+      "config_file": "configs/e329f14aab74.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 14668,
+          "mirror_1_out_of_plane_steps": -13562,
+          "mirror_2_in_plane_steps": -11961,
+          "mirror_2_out_of_plane_steps": 6860,
+          "mirror_3_in_plane_steps": -10342,
+          "mirror_3_out_of_plane_steps": -10864,
+          "mirror_4_in_plane_steps": 10889,
+          "mirror_4_out_of_plane_steps": 14707
+        },
+        "seed": null,
+        "trial": 6
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 14668,
+        "mirror_1_out_of_plane_steps": -13562,
+        "mirror_2_in_plane_steps": -11961,
+        "mirror_2_out_of_plane_steps": 6860,
+        "mirror_3_in_plane_steps": -10342,
+        "mirror_3_out_of_plane_steps": -10864,
+        "mirror_4_in_plane_steps": 10889,
+        "mirror_4_out_of_plane_steps": 14707
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.0966884765625,
+        "mirror_1_out_of_plane_steps": -0.08939794921875,
+        "mirror_2_in_plane_steps": -0.078844482421875,
+        "mirror_2_out_of_plane_steps": 0.0452197265625,
+        "mirror_3_in_plane_steps": -0.06817236328125,
+        "mirror_3_out_of_plane_steps": -0.07161328125,
+        "mirror_4_in_plane_steps": 0.071778076171875,
+        "mirror_4_out_of_plane_steps": 0.096945556640625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 14668,
+          "requested_hardware_steps": 14668,
+          "executed_submoves": [
+            -1,
+            14669
+          ],
+          "cumulative_executed_steps": 1371216,
+          "cumulative_executed_revolutions": 334.76953125,
+          "logical_position_after": -5144,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13562,
+          "requested_hardware_steps": -13562,
+          "executed_submoves": [
+            1,
+            -13563
+          ],
+          "cumulative_executed_steps": 1475202,
+          "cumulative_executed_revolutions": 360.15673828125,
+          "logical_position_after": -41836,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": -11961,
+          "requested_hardware_steps": -11961,
+          "executed_submoves": [
+            1,
+            -11962
+          ],
+          "cumulative_executed_steps": 1473068,
+          "cumulative_executed_revolutions": 359.6357421875,
+          "logical_position_after": 78588,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 6860,
+          "requested_hardware_steps": 6860,
+          "executed_submoves": [
+            -1,
+            6861
+          ],
+          "cumulative_executed_steps": 1670067,
+          "cumulative_executed_revolutions": 407.731201171875,
+          "logical_position_after": -132633,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -10342,
+          "requested_hardware_steps": -10342,
+          "executed_submoves": [
+            1,
+            -10343
+          ],
+          "cumulative_executed_steps": 688343,
+          "cumulative_executed_revolutions": 168.052490234375,
+          "logical_position_after": -14981,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": -10864,
+          "requested_hardware_steps": -10864,
+          "executed_submoves": [
+            1,
+            -10865
+          ],
+          "cumulative_executed_steps": 1179073,
+          "cumulative_executed_revolutions": 287.859619140625,
+          "logical_position_after": -56113,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 10889,
+          "requested_hardware_steps": 10889,
+          "executed_submoves": [
+            -1,
+            10890
+          ],
+          "cumulative_executed_steps": 1179412,
+          "cumulative_executed_revolutions": 287.9423828125,
+          "logical_position_after": 11144,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 14707,
+          "requested_hardware_steps": 14707,
+          "executed_submoves": [
+            -1,
+            14708
+          ],
+          "cumulative_executed_steps": 1463438,
+          "cumulative_executed_revolutions": 357.28466796875,
+          "logical_position_after": 83064,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19812,
+        "mirror_1_out_of_plane_steps": -28274,
+        "mirror_2_in_plane_steps": 90549,
+        "mirror_2_out_of_plane_steps": -139493,
+        "mirror_3_in_plane_steps": -4639,
+        "mirror_3_out_of_plane_steps": -45249,
+        "mirror_4_in_plane_steps": 255,
+        "mirror_4_out_of_plane_steps": 68357
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 14668,
+        "mirror_1_out_of_plane_steps": -13562,
+        "mirror_2_in_plane_steps": -11961,
+        "mirror_2_out_of_plane_steps": 6860,
+        "mirror_3_in_plane_steps": -10342,
+        "mirror_3_out_of_plane_steps": -10864,
+        "mirror_4_in_plane_steps": 10889,
+        "mirror_4_out_of_plane_steps": 14707
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260922_173706_144537\\trial_06\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 7,
+      "source": "archived_lab/gemini_3_5_flash/trial_07",
+      "config_file": "configs/e329f14aab74.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -14305,
+          "mirror_1_out_of_plane_steps": -5439,
+          "mirror_2_in_plane_steps": 14856,
+          "mirror_2_out_of_plane_steps": -889,
+          "mirror_3_in_plane_steps": 3789,
+          "mirror_3_out_of_plane_steps": 627,
+          "mirror_4_in_plane_steps": -6306,
+          "mirror_4_out_of_plane_steps": 377
+        },
+        "seed": null,
+        "trial": 7
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -14305,
+        "mirror_1_out_of_plane_steps": -5439,
+        "mirror_2_in_plane_steps": 14856,
+        "mirror_2_out_of_plane_steps": -889,
+        "mirror_3_in_plane_steps": 3789,
+        "mirror_3_out_of_plane_steps": 627,
+        "mirror_4_in_plane_steps": -6306,
+        "mirror_4_out_of_plane_steps": 377
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.094295654296875,
+        "mirror_1_out_of_plane_steps": -0.035852783203125,
+        "mirror_2_in_plane_steps": 0.097927734375,
+        "mirror_2_out_of_plane_steps": -0.005860107421875,
+        "mirror_3_in_plane_steps": 0.024976318359375,
+        "mirror_3_out_of_plane_steps": 0.004133056640625,
+        "mirror_4_in_plane_steps": -0.04156787109375,
+        "mirror_4_out_of_plane_steps": 0.002485107421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -14305,
+          "requested_hardware_steps": -14305,
+          "executed_submoves": [
+            1,
+            -14306
+          ],
+          "cumulative_executed_steps": 1417537,
+          "cumulative_executed_revolutions": 346.078369140625,
+          "logical_position_after": -33449,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -5439,
+          "requested_hardware_steps": -5439,
+          "executed_submoves": [
+            1,
+            -5440
+          ],
+          "cumulative_executed_steps": 1509655,
+          "cumulative_executed_revolutions": 368.568115234375,
+          "logical_position_after": -34275,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 14856,
+          "requested_hardware_steps": 14856,
+          "executed_submoves": [
+            -1,
+            14857
+          ],
+          "cumulative_executed_steps": 1559944,
+          "cumulative_executed_revolutions": 380.845703125,
+          "logical_position_after": 105444,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -889,
+          "requested_hardware_steps": -889,
+          "executed_submoves": [
+            1,
+            -890
+          ],
+          "cumulative_executed_steps": 1729976,
+          "cumulative_executed_revolutions": 422.357421875,
+          "logical_position_after": -140522,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 3789,
+          "requested_hardware_steps": 3789,
+          "executed_submoves": [
+            -1,
+            3790
+          ],
+          "cumulative_executed_steps": 697138,
+          "cumulative_executed_revolutions": 170.19970703125,
+          "logical_position_after": -6192,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 627,
+          "requested_hardware_steps": 627,
+          "executed_submoves": [
+            -1,
+            628
+          ],
+          "cumulative_executed_steps": 1198712,
+          "cumulative_executed_revolutions": 292.654296875,
+          "logical_position_after": -42486,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -6306,
+          "requested_hardware_steps": -6306,
+          "executed_submoves": [
+            1,
+            -6307
+          ],
+          "cumulative_executed_steps": 1205728,
+          "cumulative_executed_revolutions": 294.3671875,
+          "logical_position_after": 838,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 377,
+          "requested_hardware_steps": 377,
+          "executed_submoves": [
+            -1,
+            378
+          ],
+          "cumulative_executed_steps": 1492829,
+          "cumulative_executed_revolutions": 364.460205078125,
+          "logical_position_after": 70441,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19144,
+        "mirror_1_out_of_plane_steps": -28836,
+        "mirror_2_in_plane_steps": 90588,
+        "mirror_2_out_of_plane_steps": -139633,
+        "mirror_3_in_plane_steps": -9981,
+        "mirror_3_out_of_plane_steps": -43113,
+        "mirror_4_in_plane_steps": 7144,
+        "mirror_4_out_of_plane_steps": 70064
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -13637,
+        "mirror_1_out_of_plane_steps": -6001,
+        "mirror_2_in_plane_steps": 14895,
+        "mirror_2_out_of_plane_steps": -1029,
+        "mirror_3_in_plane_steps": -1553,
+        "mirror_3_out_of_plane_steps": 2763,
+        "mirror_4_in_plane_steps": 583,
+        "mirror_4_out_of_plane_steps": 2084
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260922_173706_144537\\trial_07\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 8,
+      "source": "archived_lab/gemini_3_5_flash/trial_08",
+      "config_file": "configs/e329f14aab74.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": 12454,
+          "mirror_1_out_of_plane_steps": -13796,
+          "mirror_2_in_plane_steps": 10191,
+          "mirror_2_out_of_plane_steps": -5003,
+          "mirror_3_in_plane_steps": -3746,
+          "mirror_3_out_of_plane_steps": 2094,
+          "mirror_4_in_plane_steps": 11263,
+          "mirror_4_out_of_plane_steps": 825
+        },
+        "seed": null,
+        "trial": 8
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": 12454,
+        "mirror_1_out_of_plane_steps": -13796,
+        "mirror_2_in_plane_steps": 10191,
+        "mirror_2_out_of_plane_steps": -5003,
+        "mirror_3_in_plane_steps": -3746,
+        "mirror_3_out_of_plane_steps": 2094,
+        "mirror_4_in_plane_steps": 11263,
+        "mirror_4_out_of_plane_steps": 825
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": 0.08209423828125,
+        "mirror_1_out_of_plane_steps": -0.0909404296875,
+        "mirror_2_in_plane_steps": 0.067177001953125,
+        "mirror_2_out_of_plane_steps": -0.032978759765625,
+        "mirror_3_in_plane_steps": -0.02469287109375,
+        "mirror_3_out_of_plane_steps": 0.01380322265625,
+        "mirror_4_in_plane_steps": 0.074243408203125,
+        "mirror_4_out_of_plane_steps": 0.005438232421875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": 12454,
+          "requested_hardware_steps": 12454,
+          "executed_submoves": [
+            -1,
+            12455
+          ],
+          "cumulative_executed_steps": 1444003,
+          "cumulative_executed_revolutions": 352.539794921875,
+          "logical_position_after": -6995,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -13796,
+          "requested_hardware_steps": -13796,
+          "executed_submoves": [
+            1,
+            -13797
+          ],
+          "cumulative_executed_steps": 1531461,
+          "cumulative_executed_revolutions": 373.891845703125,
+          "logical_position_after": -42071,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 10191,
+          "requested_hardware_steps": 10191,
+          "executed_submoves": [
+            -1,
+            10192
+          ],
+          "cumulative_executed_steps": 1590147,
+          "cumulative_executed_revolutions": 388.219482421875,
+          "logical_position_after": 99635,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": -5003,
+          "requested_hardware_steps": -5003,
+          "executed_submoves": [
+            1,
+            -5004
+          ],
+          "cumulative_executed_steps": 1746987,
+          "cumulative_executed_revolutions": 426.510498046875,
+          "logical_position_after": -145525,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": -3746,
+          "requested_hardware_steps": -3746,
+          "executed_submoves": [
+            1,
+            -3747
+          ],
+          "cumulative_executed_steps": 710892,
+          "cumulative_executed_revolutions": 173.5576171875,
+          "logical_position_after": -7938,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 2094,
+          "requested_hardware_steps": 2094,
+          "executed_submoves": [
+            -1,
+            2095
+          ],
+          "cumulative_executed_steps": 1212812,
+          "cumulative_executed_revolutions": 296.0966796875,
+          "logical_position_after": -44392,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 11263,
+          "requested_hardware_steps": 11263,
+          "executed_submoves": [
+            -1,
+            11264
+          ],
+          "cumulative_executed_steps": 1225999,
+          "cumulative_executed_revolutions": 299.316162109375,
+          "logical_position_after": 13101,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 825,
+          "requested_hardware_steps": 825,
+          "executed_submoves": [
+            -1,
+            826
+          ],
+          "cumulative_executed_steps": 1523666,
+          "cumulative_executed_revolutions": 371.98876953125,
+          "logical_position_after": 69266,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19449,
+        "mirror_1_out_of_plane_steps": -28275,
+        "mirror_2_in_plane_steps": 89444,
+        "mirror_2_out_of_plane_steps": -140522,
+        "mirror_3_in_plane_steps": -4192,
+        "mirror_3_out_of_plane_steps": -46486,
+        "mirror_4_in_plane_steps": 1838,
+        "mirror_4_out_of_plane_steps": 68441
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": 12817,
+        "mirror_1_out_of_plane_steps": -13797,
+        "mirror_2_in_plane_steps": 9086,
+        "mirror_2_out_of_plane_steps": -6032,
+        "mirror_3_in_plane_steps": -3299,
+        "mirror_3_out_of_plane_steps": 857,
+        "mirror_4_in_plane_steps": 12846,
+        "mirror_4_out_of_plane_steps": 909
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260922_173706_144537\\trial_08\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 9,
+      "source": "archived_lab/gemini_3_5_flash/trial_09",
+      "config_file": "configs/e329f14aab74.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -8222,
+          "mirror_1_out_of_plane_steps": 11911,
+          "mirror_2_in_plane_steps": 4952,
+          "mirror_2_out_of_plane_steps": 5930,
+          "mirror_3_in_plane_steps": 2271,
+          "mirror_3_out_of_plane_steps": 3507,
+          "mirror_4_in_plane_steps": 11520,
+          "mirror_4_out_of_plane_steps": -4670
+        },
+        "seed": null,
+        "trial": 9
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -8222,
+        "mirror_1_out_of_plane_steps": 11911,
+        "mirror_2_in_plane_steps": 4952,
+        "mirror_2_out_of_plane_steps": 5930,
+        "mirror_3_in_plane_steps": 2271,
+        "mirror_3_out_of_plane_steps": 3507,
+        "mirror_4_in_plane_steps": 11520,
+        "mirror_4_out_of_plane_steps": -4670
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.05419775390625,
+        "mirror_1_out_of_plane_steps": 0.078514892578125,
+        "mirror_2_in_plane_steps": 0.032642578125,
+        "mirror_2_out_of_plane_steps": 0.039089355468749996,
+        "mirror_3_in_plane_steps": 0.014969970703125,
+        "mirror_3_out_of_plane_steps": 0.023117431640625,
+        "mirror_4_in_plane_steps": 0.0759375,
+        "mirror_4_out_of_plane_steps": -0.03078369140625
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -8222,
+          "requested_hardware_steps": -8222,
+          "executed_submoves": [
+            1,
+            -8223
+          ],
+          "cumulative_executed_steps": 1484239,
+          "cumulative_executed_revolutions": 362.363037109375,
+          "logical_position_after": -27217,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": 11911,
+          "requested_hardware_steps": 11911,
+          "executed_submoves": [
+            -1,
+            11912
+          ],
+          "cumulative_executed_steps": 1573386,
+          "cumulative_executed_revolutions": 384.12744140625,
+          "logical_position_after": -16160,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 4952,
+          "requested_hardware_steps": 4952,
+          "executed_submoves": [
+            -1,
+            4953
+          ],
+          "cumulative_executed_steps": 1615107,
+          "cumulative_executed_revolutions": 394.313232421875,
+          "logical_position_after": 92587,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 5930,
+          "requested_hardware_steps": 5930,
+          "executed_submoves": [
+            -1,
+            5931
+          ],
+          "cumulative_executed_steps": 1785929,
+          "cumulative_executed_revolutions": 436.017822265625,
+          "logical_position_after": -132595,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 2271,
+          "requested_hardware_steps": 2271,
+          "executed_submoves": [
+            -1,
+            2272
+          ],
+          "cumulative_executed_steps": 718169,
+          "cumulative_executed_revolutions": 175.334228515625,
+          "logical_position_after": -667,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 3507,
+          "requested_hardware_steps": 3507,
+          "executed_submoves": [
+            -1,
+            3508
+          ],
+          "cumulative_executed_steps": 1224327,
+          "cumulative_executed_revolutions": 298.907958984375,
+          "logical_position_after": -36885,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": 11520,
+          "requested_hardware_steps": 11520,
+          "executed_submoves": [
+            -1,
+            11521
+          ],
+          "cumulative_executed_steps": 1282537,
+          "cumulative_executed_revolutions": 313.119384765625,
+          "logical_position_after": 13621,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": -4670,
+          "requested_hardware_steps": -4670,
+          "executed_submoves": [
+            1,
+            -4671
+          ],
+          "cumulative_executed_steps": 1571362,
+          "cumulative_executed_revolutions": 383.63330078125,
+          "logical_position_after": 69596,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -18995,
+        "mirror_1_out_of_plane_steps": -28071,
+        "mirror_2_in_plane_steps": 87635,
+        "mirror_2_out_of_plane_steps": -138525,
+        "mirror_3_in_plane_steps": -2938,
+        "mirror_3_out_of_plane_steps": -40392,
+        "mirror_4_in_plane_steps": 2101,
+        "mirror_4_out_of_plane_steps": 74266
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -7405,
+        "mirror_1_out_of_plane_steps": 12114,
+        "mirror_2_in_plane_steps": 2038,
+        "mirror_2_out_of_plane_steps": 6898,
+        "mirror_3_in_plane_steps": 3972,
+        "mirror_3_out_of_plane_steps": 8364,
+        "mirror_4_in_plane_steps": 13366,
+        "mirror_4_out_of_plane_steps": 1239
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260922_173706_144537\\trial_09\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    },
+    {
+      "model": "google/gemini-3.5-flash",
+      "trial": 10,
+      "source": "archived_lab/gemini_3_5_flash/trial_10",
+      "config_file": "configs/e329f14aab74.yaml",
+      "startup": {
+        "start": "C8",
+        "scramble": {
+          "mirror_1_in_plane_steps": -14589,
+          "mirror_1_out_of_plane_steps": -1951,
+          "mirror_2_in_plane_steps": 14259,
+          "mirror_2_out_of_plane_steps": 10207,
+          "mirror_3_in_plane_steps": 6173,
+          "mirror_3_out_of_plane_steps": 1801,
+          "mirror_4_in_plane_steps": -767,
+          "mirror_4_out_of_plane_steps": 7440
+        },
+        "seed": null,
+        "trial": 10
+      },
+      "scramble_delta_steps": {
+        "mirror_1_in_plane_steps": -14589,
+        "mirror_1_out_of_plane_steps": -1951,
+        "mirror_2_in_plane_steps": 14259,
+        "mirror_2_out_of_plane_steps": 10207,
+        "mirror_3_in_plane_steps": 6173,
+        "mirror_3_out_of_plane_steps": 1801,
+        "mirror_4_in_plane_steps": -767,
+        "mirror_4_out_of_plane_steps": 7440
+      },
+      "nominal_scramble_delta_mirror_radians": {
+        "mirror_1_in_plane_steps": -0.096167724609375,
+        "mirror_1_out_of_plane_steps": -0.012860595703125,
+        "mirror_2_in_plane_steps": 0.093992431640625,
+        "mirror_2_out_of_plane_steps": 0.067282470703125,
+        "mirror_3_in_plane_steps": 0.040691162109375,
+        "mirror_3_out_of_plane_steps": 0.011871826171875,
+        "mirror_4_in_plane_steps": -0.005055908203125,
+        "mirror_4_out_of_plane_steps": 0.04904296875
+      },
+      "motor_records": [
+        {
+          "axis_name": "mirror_1_in_plane_steps",
+          "requested_logical_steps": -14589,
+          "requested_hardware_steps": -14589,
+          "executed_submoves": [
+            1,
+            -14590
+          ],
+          "cumulative_executed_steps": 1565455,
+          "cumulative_executed_revolutions": 382.191162109375,
+          "logical_position_after": -34395,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_1_out_of_plane_steps",
+          "requested_logical_steps": -1951,
+          "requested_hardware_steps": -1951,
+          "executed_submoves": [
+            1,
+            -1952
+          ],
+          "cumulative_executed_steps": 1616318,
+          "cumulative_executed_revolutions": 394.60888671875,
+          "logical_position_after": -29062,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_in_plane_steps",
+          "requested_logical_steps": 14259,
+          "requested_hardware_steps": 14259,
+          "executed_submoves": [
+            -1,
+            14260
+          ],
+          "cumulative_executed_steps": 1882681,
+          "cumulative_executed_revolutions": 459.638916015625,
+          "logical_position_after": 102105,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_2_out_of_plane_steps",
+          "requested_logical_steps": 10207,
+          "requested_hardware_steps": 10207,
+          "executed_submoves": [
+            -1,
+            10208
+          ],
+          "cumulative_executed_steps": 1988903,
+          "cumulative_executed_revolutions": 485.572021484375,
+          "logical_position_after": -128681,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_in_plane_steps",
+          "requested_logical_steps": 6173,
+          "requested_hardware_steps": 6173,
+          "executed_submoves": [
+            -1,
+            6174
+          ],
+          "cumulative_executed_steps": 754039,
+          "cumulative_executed_revolutions": 184.091552734375,
+          "logical_position_after": -3821,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_3_out_of_plane_steps",
+          "requested_logical_steps": 1801,
+          "requested_hardware_steps": 1801,
+          "executed_submoves": [
+            -1,
+            1802
+          ],
+          "cumulative_executed_steps": 1270949,
+          "cumulative_executed_revolutions": 310.290283203125,
+          "logical_position_after": -48283,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_in_plane_steps",
+          "requested_logical_steps": -767,
+          "requested_hardware_steps": -767,
+          "executed_submoves": [
+            1,
+            -768
+          ],
+          "cumulative_executed_steps": 1313591,
+          "cumulative_executed_revolutions": 320.700927734375,
+          "logical_position_after": 5587,
+          "dry_run": false
+        },
+        {
+          "axis_name": "mirror_4_out_of_plane_steps",
+          "requested_logical_steps": 7440,
+          "requested_hardware_steps": 7440,
+          "executed_submoves": [
+            -1,
+            7441
+          ],
+          "cumulative_executed_steps": 1621266,
+          "cumulative_executed_revolutions": 395.81689453125,
+          "logical_position_after": 72476,
+          "dry_run": false
+        }
+      ],
+      "pre_scramble_tracked_positions": {
+        "mirror_1_in_plane_steps": -19806,
+        "mirror_1_out_of_plane_steps": -27111,
+        "mirror_2_in_plane_steps": 87846,
+        "mirror_2_out_of_plane_steps": -138888,
+        "mirror_3_in_plane_steps": -9994,
+        "mirror_3_out_of_plane_steps": -50084,
+        "mirror_4_in_plane_steps": 6354,
+        "mirror_4_out_of_plane_steps": 65036
+      },
+      "post_scramble_session_command": {
+        "mirror_1_in_plane_steps": -14589,
+        "mirror_1_out_of_plane_steps": -1951,
+        "mirror_2_in_plane_steps": 14259,
+        "mirror_2_out_of_plane_steps": 10207,
+        "mirror_3_in_plane_steps": 6173,
+        "mirror_3_out_of_plane_steps": 1801,
+        "mirror_4_in_plane_steps": -767,
+        "mirror_4_out_of_plane_steps": 7440
+      },
+      "protocol": "active_perception_delta_v3",
+      "per_move_limit": 15000,
+      "cumulative_limit": 30000,
+      "status": "llm_declared_done",
+      "known_unsuccessful": false,
+      "first_capture": {
+        "raw_image_path": "runs\\motorized_mirror_relay_staged\\20260922_205211_635678\\trial_10\\images\\000_C8.png",
+        "raw_shape": [
+          480,
+          640,
+          3
+        ],
+        "capture_mode": "snapshot_defaults",
+        "index": 1,
+        "backend": "CAP_DSHOW"
+      }
+    }
+  ]
+}

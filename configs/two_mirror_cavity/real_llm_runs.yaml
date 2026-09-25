@@ -1,0 +1,56 @@
+experiment_type: two_mirror_cavity_real_llm_runs
+experiment_name: two_mirror_cavity_real_llm_runs
+output_root: runs/two_mirror_cavity_real_llm
+
+repeats: 10
+skip_repeat_indices: []
+iterations: 50
+probes_per_batch: 1
+base_seed: 20260718
+
+camera:
+  camera_index: 0
+  exposure_ms: 300.0
+  analog_gain: 10
+  average_frames: 2
+  warmup_frames: 2
+  frame_timeout_ms: 1000
+  frame_retries: 3
+  llm_image_format: png
+
+hardware:
+  session_state_path: session/two_mirror_cavity_real_llm/session_state.json
+  steps_per_revolution: 4096
+  max_cumulative_revolutions: 5.0
+  backlash_compensation: true
+  settle_time_sec: 0.5
+  dry_run: false
+
+calibration:
+  path: configs/two_mirror_cavity/motor_screen_calibration.json
+
+axes:
+  - name: cavity_beam_x
+    role: x
+    controller_ip: REPLACE_ME
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_min_steps: -4000
+    hidden_offset_max_steps: 4000
+    llm_min_steps: -8000
+    llm_max_steps: 8000
+  - name: cavity_beam_y
+    role: y
+    controller_ip: REPLACE_ME
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_min_steps: -2000
+    hidden_offset_max_steps: 2000
+    llm_min_steps: -5000
+    llm_max_steps: 5000
+
+llm:
+  model: openai/gpt-5.6-sol
+  effort: high
+  max_tokens: 20000
+  reasoning_max_tokens: null

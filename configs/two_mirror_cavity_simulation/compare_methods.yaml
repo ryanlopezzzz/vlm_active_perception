@@ -1,0 +1,51 @@
+experiment_type: two_mirror_cavity_simulation_compare_methods
+experiment_name: two_mirror_cavity_simulation_compare_methods
+output_root: runs
+
+repeats: 10
+iterations: 50
+probes_per_batch: 1
+base_seed: 20260718
+max_parallel_jobs: 5
+methods: [llm, bayes, random]
+initial_conditions_path: lab_initial_conditions.json
+
+simulation:
+  profile_path: ../../src/sim/assets/two_mirror_cavity_profiles.npz
+
+axes:
+  - name: cavity_beam_x
+    role: x
+    motor_number: 3
+    direction_sign: 1
+    hidden_offset_min_steps: -4000
+    hidden_offset_max_steps: 4000
+    llm_min_steps: -8000
+    llm_max_steps: 8000
+    calibration_slope_normalized_per_step: -0.00020900476190476185
+  - name: cavity_beam_y
+    role: y
+    motor_number: 1
+    direction_sign: 1
+    hidden_offset_min_steps: -2000
+    hidden_offset_max_steps: 2000
+    llm_min_steps: -5000
+    llm_max_steps: 5000
+    calibration_slope_normalized_per_step: -0.0003231375000000002
+
+llm_models:
+  - key: gpt_5_6_sol
+    model: openai/gpt-5.6-sol
+    effort: high
+    max_tokens: 20000
+    reasoning_max_tokens: null
+  - key: gemini_3_5_flash
+    model: google/gemini-3.5-flash
+    effort: medium
+    max_tokens: 20000
+    reasoning_max_tokens: null
+  - key: qwen3_vl_32b_instruct
+    model: qwen/qwen3-vl-32b-instruct
+    effort: none
+    max_tokens: 20000
+    reasoning_max_tokens: null

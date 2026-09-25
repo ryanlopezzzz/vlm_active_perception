@@ -1,0 +1,13 @@
+openrouter_api.txt
+/stereo_calibration2.npz
+experiments/*
+experiment_archive/*
+/images/
+/summarize_runs_test_code/
+.DS_Store
+__pycache__
+*.egg-info/
+/runs/
+/development/
+/final_results/
+old_runs/*

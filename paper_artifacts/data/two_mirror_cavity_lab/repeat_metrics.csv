@@ -1,0 +1,31 @@
+model,model_label,model_id,repeat_index,seed,final_distance_steps,success_within_500_steps,cost_dollars,time_to_final_seconds,motor_configurations_seen,llm_responses
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,0,20260718,148.03040228277433,True,0.79966125,355.749713,16,16
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,1,20270691,166.57130605239308,True,0.37132449999999995,180.268022,11,11
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,2,20280664,235.0914715594762,True,0.8166205,388.789839,18,18
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,3,20290637,943.3186100146652,False,0.5725947500000002,259.877661,14,14
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,4,20300610,127.81627439414747,True,0.41851374999999996,228.05304,10,10
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,5,20310583,253.25086376950424,True,0.84702675,373.43889,16,16
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,6,20320556,287.3673607075097,True,0.5492115000000001,299.225538,13,13
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,7,20330529,131.20975573485381,True,0.61741875,314.279353,12,12
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,8,20340502,100.26464980241042,True,0.61834325,362.026003,14,14
+gpt_5_6_sol,GPT-5.6 Sol,openai/gpt-5.6-sol,9,20350475,265.1490147068248,True,0.86983275,453.375135,17,17
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,0,20260718,234.4632167313244,True,0.39013905,244.845021,15,15
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,1,20270691,11606.318365442161,False,0.21499334999999997,143.005044,9,9
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,2,20280664,358.92199709686224,True,0.26967315,198.897881,12,12
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,3,20290637,629.4203682754476,False,0.3664725,237.971248,13,13
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,4,20300610,226.04645540242387,True,0.21094125000000002,143.320405,11,11
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,5,20310583,850.0094117125998,False,0.1952289,138.496309,10,10
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,6,20320556,471.02016941952706,True,0.22201200000000001,151.424176,11,11
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,7,20330529,260.72207424765554,True,0.1947501,140.308775,10,10
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,8,20340502,353.05523647157537,True,0.38762564999999993,244.845848,12,12
+gemini_3_5_flash,Gemini 3.5 Flash,google/gemini-3.5-flash,9,20350475,1497.7796900746118,False,0.28739595,173.050215,8,8
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,0,20260718,2186.2005854907275,False,0.002854696,110.247535,5,5
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,1,20270691,11104.081501862276,False,0.011734423999999999,191.399442,12,12
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,2,20280664,1979.1071219112926,False,0.005562752000000001,130.088808,8,8
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,3,20290637,2313.4757400932476,False,0.152346792,869.775645,50,50
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,4,20300610,3626.1683634381898,False,0.011111048000000002,186.274039,11,11
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,5,20310583,2132.6312386345653,False,0.019128928,226.25238,16,16
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,6,20320556,3185.50780881165,False,0.007112248,229.834507,9,9
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,7,20330529,1843.9023835333583,False,0.007213648,161.326133,9,9
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,8,20340502,2943.0304109879667,False,0.008904375999999999,216.915964,10,10
+qwen3_vl_32b_instruct,Qwen3-VL-32B-Instruct,qwen/qwen3-vl-32b-instruct,9,20350475,2140.0336445953367,False,0.024002888,449.156519,16,16

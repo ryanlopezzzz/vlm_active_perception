@@ -1,0 +1,143 @@
+{
+  "description": "Empirical two-mirror cavity profiles extracted from final real-lab runs.",
+  "main_source": {
+    "sha256": "ee84c671e1b5b9f85c94b9a654aad0241b81833b42a04930a68ed75917ce4f0c",
+    "capture_metadata": {
+      "raw_array_path": null,
+      "shape": [
+        3672,
+        5488,
+        1
+      ],
+      "dtype": "uint8",
+      "llm_image_shape": [
+        540,
+        960
+      ],
+      "average_frames": 2,
+      "camera_backend": "mindvision",
+      "camera_index": 0,
+      "exposure_ms": 300.0,
+      "analog_gain": 10,
+      "capture_kind": "probe",
+      "batch_index": 6,
+      "probe_index": 1,
+      "absolute_visible_command": {
+        "x": 8000,
+        "y": 5000
+      },
+      "physical_target_steps": {
+        "x": 5394,
+        "y": 6832
+      },
+      "motor_delta_steps": {
+        "x": 0,
+        "y": 5000
+      }
+    },
+    "source_id": "qwen3_vl_32b_instruct/repeat_06/images/original/batch_06_probe_01_x_+08000_y_+05000.png"
+  },
+  "combined_source": {
+    "sha256": "3d5623ffa7f346d3bb4784314438b816778ccfe15ffaa171138448b9a15efc09",
+    "capture_metadata": {
+      "raw_array_path": null,
+      "shape": [
+        3672,
+        5488,
+        1
+      ],
+      "dtype": "uint8",
+      "llm_image_shape": [
+        540,
+        960
+      ],
+      "average_frames": 2,
+      "camera_backend": "mindvision",
+      "camera_index": 0,
+      "exposure_ms": 300.0,
+      "analog_gain": 10,
+      "capture_kind": "initial",
+      "absolute_visible_command": {
+        "x": 0,
+        "y": 0
+      },
+      "physical_position_steps": {
+        "x": 3345,
+        "y": -449
+      }
+    },
+    "source_id": "gpt_5_6_sol/repeat_01/images/original/initial_visible_x_+00000_y_+00000.png"
+  },
+  "frame_shape": [
+    540,
+    960
+  ],
+  "background_percentile": 1.0,
+  "background_levels_uint8": {
+    "main": 54.0,
+    "combined": 54.0
+  },
+  "combined_to_main_alignment_shift_px": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "photometric_fit": {
+    "gain": 0.9713629520380921,
+    "offset": 1.7045472079275263
+  },
+  "secondary_source_center_normalized": [
+    -0.77,
+    -0.08
+  ],
+  "secondary_mask_radii_px": [
+    105.0,
+    90.0
+  ],
+  "secondary_mask_taper": {
+    "inner_radius": 0.85,
+    "outer_radius": 1.15
+  },
+  "extracted_secondary_center_px": [
+    125.40773079109988,
+    304.5516513565332
+  ],
+  "main_center_normalized": [
+    -0.02209929523809521,
+    -0.022140175
+  ],
+  "main_center_px": [
+    469.39233828571435,
+    275.97784725
+  ],
+  "secondary_recenter_shift_px": {
+    "x": 343.98460749461447,
+    "y": -28.573804106533203
+  },
+  "main_profile_processing": "Unmodified 8-bit camera image divided by 255.",
+  "secondary_extraction_background_percentile": 1.0,
+  "normalization_sensor_range_uint8": 255.0,
+  "profile_statistics": {
+    "main_peak": 1.0,
+    "secondary_peak": 0.1913381963968277,
+    "main_sum": 196001.296875,
+    "secondary_sum": 1500.94677734375
+  },
+  "steering_calibration": {
+    "x_screen_normalized_per_step": -0.00020900476190476185,
+    "y_screen_normalized_per_step": 0.0003231375000000002,
+    "x_image_pixels_per_step": -0.10032228571428568,
+    "y_image_pixels_per_step": -0.08724712500000005,
+    "x_step_limits": [
+      -8000,
+      8000
+    ],
+    "y_step_limits": [
+      -5000,
+      5000
+    ]
+  },
+  "limitations": [
+    "The source camera images are 8-bit and saturated in the main-beam core.",
+    "The secondary profile is a localized positive intensity difference, not a recovered complex field."
+  ]
+}

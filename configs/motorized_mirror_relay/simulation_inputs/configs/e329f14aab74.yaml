@@ -1,0 +1,106 @@
+experiment_type: motorized_mirror_relay_lab
+experiment_name: motorized_mirror_relay_lab_runs
+output_root: runs
+repeats: 2
+iterations: 100
+max_parallel_jobs: 1
+hardware:
+  skeleton_module: pick_and_place_and_capture_skeleton
+  calibration_path: stereo_calibration2.npz
+  session_state_path: session/motorized_mirror_relay_lab/motor_state.json
+  steps_per_revolution: 4096
+  mirror_radians_per_revolution: 0.027
+  command_limit_steps: 8192
+  max_cumulative_revolutions: 5.0
+  backlash_compensation: true
+  settle_time_sec: 1.0
+mirror_controllers:
+  M1:
+    controller_ip: REPLACE_ME
+    in_plane:
+      motor_number: 1
+      direction_sign: 1
+    out_of_plane:
+      motor_number: 3
+      direction_sign: 1
+  M2:
+    controller_ip: REPLACE_ME
+    in_plane:
+      motor_number: 1
+      direction_sign: 1
+    out_of_plane:
+      motor_number: 3
+      direction_sign: 1
+  M3:
+    controller_ip: REPLACE_ME
+    in_plane:
+      motor_number: 1
+      direction_sign: 1
+    out_of_plane:
+      motor_number: 3
+      direction_sign: 1
+  M4:
+    controller_ip: REPLACE_ME
+    in_plane:
+      motor_number: 1
+      direction_sign: 1
+    out_of_plane:
+      motor_number: 3
+      direction_sign: 1
+camera:
+  index: 1
+  backend: CAP_DSHOW
+  width: 8000
+  height: 6000
+  auto_exposure: 0.25
+  exposure: -6.0
+  skip_frames: 5
+  settle_s: 0.2
+  llm_width: 640
+  llm_height: 480
+camera_stations:
+  C1:
+    description: Between M1 and M2, near M1; receives beam traveling +y
+    x_position_f: 289.986
+    y_position_f: 144.32
+    added_angle: 88.001
+  C2:
+    description: Between M1 and M2, near M2; receives beam traveling +y
+    x_position_f: 382.035
+    y_position_f: 140.159
+    added_angle: 89.777
+  C3:
+    description: Between M2 and M3, near M2; receives beam traveling +x
+    x_position_f: 459.406
+    y_position_f: 60.134
+    added_angle: 1.113
+  C4:
+    description: Between M2 and M3, near M3; receives beam traveling +x
+    x_position_f: 447.067
+    y_position_f: -66.786
+    added_angle: -1.41
+  C5:
+    description: Between M3 and M4, near M3; receives beam traveling -y
+    x_position_f: 358.979
+    y_position_f: -139.2
+    added_angle: -93.47
+  C6:
+    description: Between M3 and M4, near M4; receives beam traveling -y
+    x_position_f: 281.6
+    y_position_f: -138.928
+    added_angle: -92.51
+  C7:
+    description: After M4, near output station; receives beam traveling +x
+    x_position_f: 211.256
+    y_position_f: -228.171
+    added_angle: 3.047
+  C8:
+    description: After M4, far output station; receives beam traveling +x
+    x_position_f: 202.138
+    y_position_f: -352.152
+    added_angle: 2.017
+llm:
+  model: google/gemini-3.5-flash
+  effort: high
+  max_tokens: 12000
+  reasoning_max_tokens: null
